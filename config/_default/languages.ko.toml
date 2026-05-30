@@ -1,0 +1,20 @@
+languageCode = "ko"
+languageName = "한국어"
+weight = 1
+title = "반려동물용품 추천 가이드"
+
+[params]
+  displayName = "KO"
+  isoCode = "ko"
+  dateFormat = "2006년 1월 2일"
+  description = "반려동물용품, 애완동물용품 추천 가이드"
+  copyright = "© {year} 반려동물용품 추천 가이드"
+
+[params.author]
+  name = "반려동물용품 추천 가이드"
+  headline = "반려동물용품 추천 전문"
+
+[[menus.main]]
+  name = "글목록"
+  url = "/posts/"
+  weight = 10
