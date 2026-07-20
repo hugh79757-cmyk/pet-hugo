@@ -7,8 +7,8 @@ slug: "가수분해-고민된다면-지금-사야-하는-best-5"
 categories: ['추천']
 tags: ['가수분해', '펫원', '엘레강스', '펫생각', '에이티바이오', '오가앤리프']
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/c794f498dd7cbbea.webp"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/c794f498dd7cbbea.webp"
 
 ---
 

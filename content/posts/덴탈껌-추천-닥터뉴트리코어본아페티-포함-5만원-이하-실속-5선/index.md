@@ -37,7 +37,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>1순위: 더주스 강아지 오랄클리닉 덴탈껌 세트 — 부담 없는 가격에 치석 관리 시작</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="강아지 오랄클리닉 덴탈껌 세트" caption="12,700원이라는 가격이 가장 큰 매력입니다. 세트 구성으로 다양한 맛이나 모양이 들어 있어 강아지가 질리지 않고 꾸준히 먹일 수 있어요. 소형견부터 중형견까지 부담 없이 급여할 수 있는 크기로, 치석 방지 효과를 기대하기 좋은 입문형 덴탈껌입니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/d73fc406c019b4ec.webp" alt="강아지 오랄클리닉 덴탈껌 세트" caption="12,700원이라는 가격이 가장 큰 매력입니다. 세트 구성으로 다양한 맛이나 모양이 들어 있어 강아지가 질리지 않고 꾸준히 먹일 수 있어요. 소형견부터 중형견까지 부담 없이 급여할 수 있는 크기로, 치석 방지 효과를 기대하기 좋은 입문형 덴탈껌입니다." >}}
 <strong>장점</strong>: 가격이 매우 저렴하여 첫 덴탈껌으로 안성맞춤, 로켓배송으로 빠르게 받을 수 있음  
 <strong>아쉬운 점</strong>: 대형견에게는 크기가 다소 작고 단단함이 부족할 수 있음
 
@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>2순위: 댕댕스타 강아지 덴탈프랜즈 (블루베리) — 맛과 기능을 함께 잡은 중간 가격</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="댕댕스타 강아지 덴탈프랜즈 블루베리 300g 2개" caption="댕댕스타 강아지 덴탈프랜즈 블루베리 300g 2개" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/196ee544222cc062.webp" alt="댕댕스타 강아지 덴탈프랜즈 블루베리 300g 2개" caption="댕댕스타 강아지 덴탈프랜즈 블루베리 300g 2개" >}}
 코코브라운 브랜드에서 나온 덴탈프랜즈는 블루베리 추출물이 함유되어 항산화 효과까지 기대할 수 있습니다. 300g 2개에 13,000원으로 1순위와 가격 차이가 거의 없지만, 성분 구성이 더 신경 쓰인 제품입니다. 소형견에게 적합한 크기이며, 치석 제거와 입냄새 개선에 도움을 주는 텍스처로 되어 있습니다.
 
 <strong>장점</strong>: 블루베리 성분이 더해져 구취 개선과 항산화 효과 기대, 로켓배송으로 당일 주문 가능  
@@ -63,7 +63,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>3순위: 웰니스윔지스 강아지 덴탈껌 S — 소형견 전용 프리미엄</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="웰니스윔지스 강아지 덴탈껌 S" caption="웰니스윔지스 강아지 덴탈껌 S" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/8496a840c0fe12d3.webp" alt="웰니스윔지스 강아지 덴탈껌 S" caption="웰니스윔지스 강아지 덴탈껌 S" >}}
 윔지스 덴탈껌 S사이즈는 말티즈, 포메라니안 같은 초소형견에게 최적화된 제품입니다. 발톱 크기 정도로 작아 작은 입에도 안전하게 씹을 수 있습니다. 천연 수지와 카제인 성분이 치석을 긁어내고 단단한 질감이 오래 씹게 해 치아 건강에 효과적입니다. 35,500원으로 가격대는 있지만, 소형견에게 맞춰진 전용 사이즈와 성분이 차별점입니다.
 
 <strong>장점</strong>: 초소형견이 삼키기 어려운 적당한 크기, 치석 마모 효과 우수  
@@ -77,7 +77,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>4순위: 닥터뉴트리코어 강아지 가수분해 덴탈껌, 보스웰리아 — 알러지 걱정 없는 대용량</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="닥터뉴트리코어 강아지 가수분해 덴탈껌 보스웰리아 540g 2개" caption="2개 세트 54,000원으로 1개당 27,000원꼴, 540g 대용량입니다. 가수분해 단백질을 사용해 알러지 반응이 있는 강아지도 안심하고 먹일 수 있습니다. 보스웰리아 성분이 추가되어 관절 건강에도 도움을 주는 점이 독특합니다. 쿠팡 1위 제품으로 인기가 높습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/dd892099574c3d63.webp" alt="닥터뉴트리코어 강아지 가수분해 덴탈껌 보스웰리아 540g 2개" caption="2개 세트 54,000원으로 1개당 27,000원꼴, 540g 대용량입니다. 가수분해 단백질을 사용해 알러지 반응이 있는 강아지도 안심하고 먹일 수 있습니다. 보스웰리아 성분이 추가되어 관절 건강에도 도움을 주는 점이 독특합니다. 쿠팡 1위 제품으로 인기가 높습니다." >}}
 <strong>장점</strong>: 가수분해 단백질로 알러지 걱정 ↓, 보스웰리아 함유로 관절까지 케어, 대용량으로 오래 사용  
 <strong>아쉬운 점</strong>: 일반 덴탈껌보다 가격이 비싼 편, 대형견용 사이즈가 따로 없음
 
@@ -89,7 +89,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>5순위: 본아페티 강아지 덴탈츄 30p (3개) — 치석·치태 전문, 대형견에 강력</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="본아페티 강아지 덴탈츄 치석 치태 제거용 락토페린 개껌 30p 360g 3개" caption="본아페티 강아지 덴탈츄 치석 치태 제거용 락토페린 개껌 30p 360g 3개" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/c0c2c5ed45d30b0a.webp" alt="본아페티 강아지 덴탈츄 치석 치태 제거용 락토페린 개껌 30p 360g 3개" caption="본아페티 강아지 덴탈츄 치석 치태 제거용 락토페린 개껌 30p 360g 3개" >}}
 본아페티 덴탈츄는 30개입 3개 묶음으로 총 90개, 360g×3=1,080g의 대용량입니다. 락토페린 성분이 함유되어 치태와 치석 제거에 특화되어 있습니다. 큼직한 사이즈로 중대형견이 오래 씹을 수 있도록 설계되었습니다. 56,500원으로 전체 제품 중 가장 비싸지만, 개당 630원꼴로 가격 대비 알찬 구성입니다.
 
 <strong>장점</strong>: 락토페린으로 구강 건강 집중 케어, 90개 대용량으로 오래 사용, 단단해 치석 제거에 효과적  

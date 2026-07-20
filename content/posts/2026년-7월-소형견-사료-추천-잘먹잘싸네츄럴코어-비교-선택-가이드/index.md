@@ -31,35 +31,35 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 네츄럴코어 전연령 에코6 센시티브솔루션 — 알레르기 걱정 없는 작은입자
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="네츄럴코어 전연령 강아지 에코6 센시티브솔루션" caption="네츄럴코어 전연령 강아지 에코6 센시티브솔루션" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/730e64db8e45f1d2.webp" alt="네츄럴코어 전연령 강아지 에코6 센시티브솔루션" caption="네츄럴코어 전연령 강아지 에코6 센시티브솔루션" >}}
 2kg 한 봉지에 21,980원으로, 1kg당 10,990원으로 부담 없는 가격입니다. '작은입자'라는 이름처럼 알갱이가 작아 치즈이즈 작은 포메라니안이나 치와와도 쉽게 씹을 수 있습니다. 연어를 주원료로 해서 알레르기 반응이 적고, 민감한 장을 가진 아이들에게도 잘 맞습니다. 아쉬운 점은 대용량 묶음 상품이 없다는 점인데, 한 마리 소형견에게 한 봉으로 2~3주 급여 가능하니 재구매 주기가 짧은 편입니다. 로켓배송으로 다음 날 바로 받을 수 있어 급할 때도 좋습니다. 쿠팡 순위 4위로, 리뷰에서 "털이 윤기 나고 변 상태가 좋아졌다"는 후기가 많습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9430622239&itemId=15115381146&vendorItemId=71399115206&traceid=V0-153-8dbd52fc11a63da0&clickBeacon=52cce520-7ff9-11f1-b22d-27404728de95%7E3&requestid=20260715120023715325270204&token=31850C%7CMIXED)
 
 ## 2위: 펠리코 올펫 연어 — 소형견 맞춤 구성
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="펠리코 올펫 연어" caption="펠리코 올펫 연어" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/8c762c4f5af10e1f.webp" alt="펠리코 올펫 연어" caption="펠리코 올펫 연어" >}}
 3개 묶음(총 6kg)에 26,240원으로 1kg당 약 4,373원으로 가격 대비 실속이 뛰어납니다. 푸들, 말티즈, 포메라니안 등 소형견 품종을 겨냥해 만든 제품이라 알갱이 크기와 영양소가 맞춰져 있습니다. 특히 노령견에게도 급여할 수 있어 한 마리로 여러 마리 키우는 집에 유용합니다. 아쉬운 점은 로켓배송이 아닌 무료배송이라 배송이 하루 더 걸릴 수 있습니다. 리뷰에서 "기호성이 좋아서 까다로운 아이도 잘 먹는다"는 평이 많습니다. 2kg 3개 들이라 보관용기에 나눠 담아 관리하기 편합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7851343121&itemId=21401323115&vendorItemId=88457941286&traceid=V0-153-f20dc4e0465cc3f8&clickBeacon=52cce520-7ff9-11f1-aab9-84625b5d716c%7E3&requestid=20260715120023715325270204&token=31850C%7CMIXED)
 
 ## 3위: 더독 노령견용 닥터 소프트 — 이빨 약한 7세 이상에게
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="더독 노령견용 강아지 닥터 소프트 사료" caption="더독 노령견용 강아지 닥터 소프트 사료" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/73e31a7e55056f13.webp" alt="더독 노령견용 강아지 닥터 소프트 사료" caption="더독 노령견용 강아지 닥터 소프트 사료" >}}
 3kg 한 봉지에 26,500원으로 1kg당 약 8,833원. '소프트'라는 이름처럼 촉촉하고 부드러운 질감으로 치아가 약해진 노령견이 쉽게 뜯어 먹을 수 있습니다. 소고기 베이스로 단백질이 풍부하고, 관절 건강을 위한 성분이 포함되었습니다. 아쉬운 점은 전 연령용이 아니라 노령견 전용이므로 어린 개체에게는 영양 과잉이 될 수 있습니다. 로켓배송으로 빠르게 받을 수 있고, 3kg이면 5kg 내외 소형견이 약 한 달 반 동안 급여 가능한 양입니다. 구매자 후기에서 "씹기 힘들어하던 12살 말티즈가 잘 먹더라"는 반응이 많았습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7783775826&itemId=27065285608&vendorItemId=94033642000&traceid=V0-153-3641835608e57fd4&clickBeacon=52ccbe10-7ff9-11f1-97c5-351e7c49f5a8%7E3&requestid=20260715120023715325270204&token=31850C%7CMIXED)
 
 ## 4위: 잘먹잘싸 6free 연어 — 장기 급여에 실속 있는 묶음
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="잘먹잘싸 6free 강아지 사료, 연어" caption="잘먹잘싸 6free 강아지 사료, 연어" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/94af1b8e9232c624.webp" alt="잘먹잘싸 6free 강아지 사료, 연어" caption="잘먹잘싸 6free 강아지 사료, 연어" >}}
 2kg 6개 묶음(총 12kg)에 88,990원으로 1kg당 약 7,416원. 6free(곡물·색소·방부제·합성첨가물 등) 원칙을 지켜 민감한 반려견에게도 안심하고 줄 수 있습니다. 연어가 주단백질이라 오메가3 함량이 높아 피부와 피모 건강에 도움을 줍니다. 아쉬운 점은 초기 구매 부담이 크고, 한 봉지를 다 먹기까지 보관에 신경 써야 한다는 점입니다. 지퍼백 형태가 아니므로 밀폐 용기에 옮겨 담는 걸 추천드립니다. 로켓배송 1위 제품으로, 여러 마리의 소형견을 키우는 가정이나 대형견과 함께 키우는 곳에 특히 적합합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=6490426704&itemId=28075951012&vendorItemId=95032491599&traceid=V0-153-665365a3d291d07a&clickBeacon=531a68e0-7ff9-11f1-8c9e-502f7b37d9b3%7E3&requestid=20260715120024219325270308&token=31850C%7CMIXED)
 
 ## 5위: 잘먹잘싸 6free 칠면조 — 닭고기 알레르기 대안
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="잘먹잘싸 6free 강아지 사료, 칠면조" caption="잘먹잘싸 6free 강아지 사료, 칠면조" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/94af1b8e9232c624.webp" alt="잘먹잘싸 6free 강아지 사료, 칠면조" caption="잘먹잘싸 6free 강아지 사료, 칠면조" >}}
 2kg 5개 묶음(총 10kg)에 91,000원으로 1kg당 약 9,100원. 칠면조 단백질은 닭고기 알레르기가 있는 반려견에게 좋은 대안이 됩니다. 지방 함량이 낮아 체중 관리가 필요한 소형견에게도 적합합니다. 아쉬운 점은 연어 버전보다 1kg 단가가 조금 높고, 5개 들이라 총 10kg으로 많다는 점입니다. 하지만 두 마리 이상 키운다면 오히려 실용적입니다. 로켓배송으로 쿠팡 순위 2위, 리뷰에서 "닭고기 사료 먹고 가려움증이 있던 아이가 이 제품으로 바꾼 후 증상이 사라졌다"는 사례가 많았습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8065048612&itemId=28529299523&vendorItemId=95475432507&traceid=V0-153-a023900073e3c674&clickBeacon=531a68e0-7ff9-11f1-99bc-34d243717540%7E3&requestid=20260715120024219325270308&token=31850C%7CMIXED)

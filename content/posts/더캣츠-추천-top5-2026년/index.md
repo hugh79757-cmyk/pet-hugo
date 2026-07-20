@@ -50,7 +50,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 펫스윗 짜먹는 고양이 간식 60p — 가성비 최강 1일 1간식
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="펫스윗 짜먹는 고양이 간식" caption="펫스윗 짜먹는 고양이 간식" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0989aef68d17b58c.webp" alt="펫스윗 짜먹는 고양이 간식" caption="펫스윗 짜먹는 고양이 간식" >}}
 60개가 한 통에 들어 있어 하루 한 개씩 줘도 두 달 동안 간식 걱정을 덜 수 있습니다. 연어와 참치 혼합맛이라 대부분의 고양이가 거부감 없이 잘 먹는 편이며, 짜먹는 형태라 사료 위에 살짝 토핑하거나 간식 타임에 직접 짜주기 좋습니다. 집에 고양이가 여러 마리라도 60개면 오래 사용할 수 있어 실속이 뛰어납니다. 쿠팡 로켓배송으로 다음 날 받을 수 있고, 7,410원이라는 가격은 개당 123원꼴로 부담이 거의 없습니다. 다만 짜먹는 스틱 특성상 한 번 뜯으면 바로 먹여야 하므로, 남은 간식을 보관해야 하는 상황이라면 소분 용기를 별도로 준비하는 것이 좋습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8133182341&itemId=23099772241&vendorItemId=90622283564&traceid=V0-153-148298e012a0ab69&clickBeacon=6baeb3d0-7f62-11f1-baa1-ebe9a4cfa438%7E3&requestid=20260714180011452073093752&token=31850C%7CMIXED)
@@ -59,7 +59,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 펫츠몬 고양이 짜먹는 스틱 — 닭고기/참치/연어 세 가지 맛
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="펫츠몬 고양이 짜먹는 스틱" caption="펫츠몬 고양이 짜먹는 스틱" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/ead998f9844fb5f3.webp" alt="펫츠몬 고양이 짜먹는 스틱" caption="펫츠몬 고양이 짜먹는 스틱" >}}
 900g 대용량에 7,890원으로 1g당 가격이 매우 낮은 편입니다. 닭고기, 참치, 연어 세 가지 맛이 혼합되어 있어 입맛이 까다로운 고양이도 한 번쯤은 먹을 만한 맛을 찾을 가능성이 높습니다. 스틱 형태이기 때문에 약을 숨길 때도 활용할 수 있고, 손으로 직접 짜주면 고양이와의 교감 시간도 늘어납니다. 평소 식욕이 없을 때 영양 보충용으로도 좋습니다. 다만 900g이 한 개 묶음으로 제공되는지, 여러 개로 나뉘어 있는지 상세 페이지를 꼭 확인하시기 바랍니다. 쿠팡 순위 4위로 꾸준히 판매되는 제품입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9131006910&itemId=26867434779&vendorItemId=93837069179&traceid=V0-153-f599de4359b7d1e2&clickBeacon=6baeb3d0-7f62-11f1-a43b-a3b808f68549%7E3&requestid=20260714180011452073093752&token=31850C%7CMIXED)
@@ -68,7 +68,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 더캣츠 미니리얼스프 40g 20개입 — 북어치킨스프, 수분 보충에 제격
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="더캣츠 미니리얼스프" caption="더캣츠 미니리얼스프" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6d85c8cebe39fc57.webp" alt="더캣츠 미니리얼스프" caption="더캣츠 미니리얼스프" >}}
 쿠팡 고양이 간식 부문 1위 제품으로, 북어와 치킨을 베이스로 한 스프 타입입니다. 40g짜리 20개가 들어 있어 한 번에 하나씩 개봉해 먹이기 편리합니다. 고양이가 물을 잘 안 마실 때 스프 형태로 수분을 보충해줄 수 있어 특히 여름철이나 신장 건강이 걱정되는 성묘에게 유용합니다. 8,500원이라는 가격은 20개 분량이라 합리적이며, 무료배송이 적용됩니다. 다만 로켓배송은 아니므로 배송에 2~3일 정도 소요될 수 있습니다. 1위인 만큼 실제 구매자 후기가 풍부해 신뢰도가 높습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=4536180880&itemId=26522125726&vendorItemId=94890037772&traceid=V0-153-fb0d649526ed5824&clickBeacon=58909a60-75b8-11f1-bf5d-b4abdf45c0ba%7E3&requestid=20260702105004482280230467&token=31850C%7CMIXED)
@@ -77,7 +77,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 더캣츠 고양이 쿠키샌드 간식 — 바삭한 식감이 좋은 고양이에게
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="더캣츠 고양이 쿠키샌드" caption="더캣츠 고양이 쿠키샌드" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6d85c8cebe39fc57.webp" alt="더캣츠 고양이 쿠키샌드" caption="더캣츠 고양이 쿠키샌드" >}}
 짜먹는 간식이 질린 고양이에게 바삭한 쿠키 형태의 샌드 간식을 시도해보세요. 쿠키 사이에 부드러운 필링이 들어있어 씹는 재미와 부드러운 맛을 동시에 즐길 수 있습니다. 13,500원으로 가격대가 조금 있지만, 간식을 장난감 안에 숨겨두는 노즈워크 놀이에도 활용하기 좋습니다. 로켓배송이 가능해 급할 때도 빠르게 받을 수 있습니다. 다만 쿠키라서 부스러기가 생길 수 있으므로, 카펫 위에서 주면 청소가 번거로울 수 있습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=4367898197&itemId=5144870685&vendorItemId=72454223246&traceid=V0-153-cb8703f027b56fe3&requestid=20260714180011452073093752&token=31850C%7CMIXED)
@@ -86,7 +86,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 더캣츠 고양이 스프 파우치 간식 — 고급 수프 한 끼 대용
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="더캣츠 고양이 스프 파우치" caption="더캣츠 고양이 스프 파우치" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6d85c8cebe39fc57.webp" alt="더캣츠 고양이 스프 파우치" caption="더캣츠 고양이 스프 파우치" >}}
 35,600원으로 이번 리스트에서 가장 높은 가격이지만, 파우치 형태로 내용물이 풍부해 한 끼 간식이나 사료 토핑으로 활용하기에 좋습니다. 면역력이 약한 고양이나 노령묘에게 따뜻하게 데워서 주면 식욕을 돋우는 데 효과적입니다. 로켓배송이 지원되어 언제든 빠르게 주문할 수 있습니다. 다만 가격이 부담스럽다면 평소 간식용보다는 특별한 날이나 건강 관리 목적으로 간헐적으로 주는 것을 추천드립니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=10910280&itemId=19793198551&vendorItemId=86895729284&traceid=V0-153-a622f38e525c80ea&requestid=20260714180011452073093752&token=31850C%7CMIXED)

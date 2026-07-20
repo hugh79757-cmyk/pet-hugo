@@ -7,8 +7,8 @@ slug: "top-5-그리니즈-인기-순위와-추천-이유"
 categories: ['추천']
 tags: ['누터스가든', '그리니즈', '포켄스']
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/919c6b7e49b831b7.webp"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/919c6b7e49b831b7.webp"
 
 ---
 

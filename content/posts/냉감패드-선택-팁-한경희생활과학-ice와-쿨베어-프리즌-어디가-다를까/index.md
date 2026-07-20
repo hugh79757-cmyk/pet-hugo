@@ -41,7 +41,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 한경희생활과학 ICE 냉감패드 — 로켓배송 1위, 스카이블루
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="한경희생활과학 ICE 냉감패드" caption="한경희생활과학 ICE 냉감패드" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/b6e815ff3cd69d51.webp" alt="한경희생활과학 ICE 냉감패드" caption="한경희생활과학 ICE 냉감패드" >}}
 한경희생활과학 브랜드의 ICE 냉감패드는 쿠팡 랭킹 1위답게 많은 선택을 받은 제품입니다. ICE 특수 원단이 피부에 닿는 순간 시원함이 전해져서 에어컨을 켜지 않아도 초기 쿨링감이 확실합니다. 침대 위에 깔면 매트리스 열기를 효과적으로 식혀주며, 스카이블루 색상이 시각적으로도 청량감을 줍니다.
 
 <strong>장점</strong>으로는 로켓배송으로 빠르게 받을 수 있고, 브랜드 인지도가 높아 신뢰할 수 있습니다. <strong>아쉬운 점</strong>은 색상이 스카이블루 단일 색상이라 취향에 따라 선택지가 적다는 것입니다. 소형 원룸 침대에 맞춰 싱글 사이즈로 사용하기 좋으며, 쿠팡 내 리뷰 점수도 높은 편입니다.
@@ -50,28 +50,28 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 누잠 쿨에어 냉감패드 — 3D에어매쉬로 통기성 우수
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="누잠 쿨에어 냉감패드" caption="누잠 쿨에어 냉감패드는 3D에어매쉬 구조를 채택해 공기 순환이 원활하고 부드러운 무소음 타입입니다. 패드가 얇고 유연해서 접어서 보관하기에도 좋고, 세탁 시에도 부담이 적습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/094483009fc4fa27.webp" alt="누잠 쿨에어 냉감패드" caption="누잠 쿨에어 냉감패드는 3D에어매쉬 구조를 채택해 공기 순환이 원활하고 부드러운 무소음 타입입니다. 패드가 얇고 유연해서 접어서 보관하기에도 좋고, 세탁 시에도 부담이 적습니다." >}}
 <strong>장점</strong>은 3D에어매쉬 덕분에 통기성이 매우 뛰어나 땀 흡수와 건조가 빠르다는 점입니다. <strong>아쉬운 점</strong>은 가격대가 79,000원으로 다소 높고, 로켓배송이 아닌 무료배송이라 배송 속도가 상대적으로 느릴 수 있다는 것입니다. 에어컨과 함께 사용하면 시원함이 훨씬 오래 지속됩니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8798860341&itemId=25618245636&vendorItemId=92608609128&traceid=V0-153-4ff6c48978698e4c&clickBeacon=26b9f1f0-7e80-11f1-9fa5-345dcb3bb213%7E3&requestid=20260713150029555123619485&token=31850C%7CMIXED)
 
 ## 4위: 쿨베어 국내생산 프리즌 냉감패드 — 고정밴드로 밀림 방지
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="쿨베어 프리즌 냉감패드" caption="쿨베어 프리즌 냉감패드는 국내생산 제품으로 프리즌 쿨링 소재를 사용했습니다. 특히 모서리에 고정밴드가 있어 침대 매트리스에 단단히 고정되므로 밤새 뒤척여도 패드가 말리거나 밀리지 않습니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/0ef02ea08eb3ea66.webp" alt="쿨베어 프리즌 냉감패드" caption="쿨베어 프리즌 냉감패드는 국내생산 제품으로 프리즌 쿨링 소재를 사용했습니다. 특히 모서리에 고정밴드가 있어 침대 매트리스에 단단히 고정되므로 밤새 뒤척여도 패드가 말리거나 밀리지 않습니다." >}}
 <strong>장점</strong>은 고정밴드로 인한 안정감과 국내생산 제품이라는 점입니다. 화이트 색상이라 어떤 침구와도 잘 어울립니다. <strong>아쉬운 점</strong>은 쿨링감이 다른 제품에 비해 초기에는 약간 덜 강하게 느껴질 수 있다는 것입니다. 하지만 시간이 지나도 일정한 온도를 유지해주므로 장시간 사용에는 오히려 적합합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8651904995&itemId=28249000805&vendorItemId=94835221195&traceid=V0-153-63b040c5a352c7ca&clickBeacon=26b9f1f0-7e80-11f1-8286-910310c0bd66%7E3&requestid=20260713150029555123619485&token=31850C%7CMIXED)
 
 ## 5위: 미니멀앤드 아이스웰 쿨매트 — 접촉 냉감 -7도 표기
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="미니멀앤드 아이스웰 쿨매트" caption="미니멀앤드 아이스웰 쿨매트는 제품명에 -7도 접촉 냉감을 강조하며, 아이스웰 특수 소재로 만들어졌습니다. 그레이 색상이 세련된 느낌을 주며, 침대 위에 깔면 시원한 느낌이 확실히 전해집니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/9adc08bb389fa444.webp" alt="미니멀앤드 아이스웰 쿨매트" caption="미니멀앤드 아이스웰 쿨매트는 제품명에 -7도 접촉 냉감을 강조하며, 아이스웰 특수 소재로 만들어졌습니다. 그레이 색상이 세련된 느낌을 주며, 침대 위에 깔면 시원한 느낌이 확실히 전해집니다." >}}
 <strong>장점</strong>은 접촉 냉감 효과가 즉각적이어서 더위를 많이 타는 분에게 특히 좋습니다. <strong>아쉬운 점</strong>은 정가 68,800원이지만 네이버 최저가가 39,900원으로 가격 편차가 크기 때문에 구매 전 가격 비교가 필요합니다. 로켓배송으로 빠르게 받을 수 있어 급하게 필요할 때 유용합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8087602415&itemId=22830210755&vendorItemId=95196899331&traceid=V0-153-77580c4fe146496d&clickBeacon=26b9f1f0-7e80-11f1-b577-ca47809d7791%7E3&requestid=20260713150029555123619485&token=31850C%7CMIXED)
 
 ## 6위: KURUA 100% 쿨잠 쿨매트 — 가격 부담 없는 실속형
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="KURUA 쿨잠 쿨매트" caption="KURUA 쿨잠 쿨매트는 14,900원이라는 파격적인 가격으로 부담 없이 냉감패드를 경험해보고 싶은 분에게 적합합니다. 100% 쿨잠 소재를 사용했으며 경량이라 휴대나 보관이 편리합니다." >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/91b46870018a5f15.webp" alt="KURUA 쿨잠 쿨매트" caption="KURUA 쿨잠 쿨매트는 14,900원이라는 파격적인 가격으로 부담 없이 냉감패드를 경험해보고 싶은 분에게 적합합니다. 100% 쿨잠 소재를 사용했으며 경량이라 휴대나 보관이 편리합니다." >}}
 <strong>장점</strong>은 가격이 매우 저렴하면서도 기본적인 냉감 효과를 기대할 수 있다는 점입니다. 로켓배송으로 다음 날 받을 수 있어 즉시 사용 가능합니다. <strong>아쉬운 점</strong>은 고정밴드가 없고 패드가 얇기 때문에 장기간 사용이나 두꺼운 매트리스에서는 밀릴 가능성이 있습니다. 하지만 1인용 침대나 여름 한철 임시로 사용하기에는 가격 대비 만족도가 높습니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8757043975&itemId=25466425562&vendorItemId=95428677147&traceid=V0-153-7de9b38332ed2e14&requestid=20260713150029555123619485&token=31850C%7CMIXED)

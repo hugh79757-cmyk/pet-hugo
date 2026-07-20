@@ -7,8 +7,8 @@ slug: "강아지계단-best-5-eheyciga-곡선형-쾌적-vs-bunio-실속-선택"
 categories: ['추천']
 tags: ['강아지계단', '레토', '슈퍼펫', '레토지엠에스', '뷰니오']
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp"
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6e93b248360fd82d.webp"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6e93b248360fd82d.webp"
 
 ---
 

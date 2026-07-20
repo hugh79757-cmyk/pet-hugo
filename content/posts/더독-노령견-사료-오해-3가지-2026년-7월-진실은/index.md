@@ -41,7 +41,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 1위: 더독 노령견용 닥터 소프트 사료 — 노령견 맞춤 소프트 타입
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="더독 노령견용 강아지 닥터 소프트 사료" caption="<strong>핵심 스펙</strong>: 3kg, 닭고기 소프트 타입, 로켓배송" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/73e31a7e55056f13.webp" alt="더독 노령견용 강아지 닥터 소프트 사료" caption="<strong>핵심 스펙</strong>: 3kg, 닭고기 소프트 타입, 로켓배송" >}}
 <strong>장점 1</strong>은 소프트한 식감으로 치아가 약해진 노령견도 부담 없이 씹어 먹을 수 있다는 점입니다. <strong>장점 2</strong>는 3kg 기준 27,730원으로 하루 급여량을 계산했을 때 가격 부담이 크지 않다는 것입니다. <strong>아쉬운 점</strong>은 정확한 영양 성분표가 제품명에 드러나지 않아 관절이나 눈 건강 성분 함유 여부를 별도로 확인해야 한다는 점입니다.
 
 또한 치아 상태 때문에 건식 사료를 불려서 주는 번거로움이 있던 10살 미니핀 보호자라면, 이 제품은 별도의 불림 과정 없이 바로 급여할 수 있어 실용적입니다. 쿠팡 로켓배송으로 다음 날 받을 수 있고, 네이버 최저가 25,200원보다 쿠팡 가격이 오히려 합리적인 편입니다. 리뷰 수가 많고 평점도 안정적인 편이라 첫 노령견 사료로 무난하게 선택할 수 있습니다.
@@ -50,7 +50,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 2위: 청담닥터스랩 강아지 데일리 솔루션 — 피부 알러지 전문 기능성 사료
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="청담닥터스랩 강아지 데일리 솔루션" caption="<strong>핵심 스펙</strong>: 5kg, 피부/피모+알러지 케어, 로켓배송" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/1b0c9389d6c1eb08.webp" alt="청담닥터스랩 강아지 데일리 솔루션" caption="<strong>핵심 스펙</strong>: 5kg, 피부/피모+알러지 케어, 로켓배송" >}}
 <strong>장점 1</strong>은 피부와 피모 건강을 동시에 잡는 기능성 성분이 포함되어 있다는 점입니다. <strong>장점 2</strong>는 5kg 대용량으로 여러 마리 반려견을 키우는 가정에도 경제적이라는 점입니다. <strong>아쉬운 점</strong>은 65,250원으로 3kg 제품 대비 kg당 가격이 다소 높은 편이라는 점입니다.
 
 피부 가려움 때문에 자주 긁고 털이 빠지는 6살 골든 리트리버를 키우는 보호자라면 이 제품이 효과적일 수 있습니다. 급여 후 2~3주 정도 지나면 가려움 증상이 완화되는 사례가 많으며, 로켓배송으로 빠르게 받아볼 수 있습니다. 네이버 최저가 62,000원과 큰 차이가 없어 쿠팡 정가도 합리적인 수준입니다.
@@ -59,7 +59,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 3위: 마이펫닥터 강아지 시그니처 티어스 컨트롤 — 눈물자국 고민 해결
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="마이펫닥터 강아지 시그니처 티어스 컨트롤" caption="<strong>핵심 스펙</strong>: 1kg, 눈물개선/눈건강, 로켓배송" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/3ea7aebbfe383112.webp" alt="마이펫닥터 강아지 시그니처 티어스 컨트롤" caption="<strong>핵심 스펙</strong>: 1kg, 눈물개선/눈건강, 로켓배송" >}}
 <strong>장점 1</strong>은 눈물자국 전문 기능성 사료로 알려져 있어 하얀 털을 가진 소형견에게 효과적이라는 점입니다. <strong>장점 2</strong>는 18,000원이라는 가격대에 첫 구매 부담이 적다는 점입니다. <strong>아쉬운 점</strong>은 1kg 소용량이어서 대형견이나 다묘가정에는 자주 구매해야 하는 번거로움이 있습니다.
 
 눈물자국으로 인해 얼굴 털이 갈색으로 변색된 2살 말티즈를 키우는 보호자라면, 이 사료로 식이 조절을 시도해볼 만합니다. 급여 후 1~2주 내 눈물 분비량이 줄어드는 후기가 많고, 18,000원의 부담 없는 가격 덕분에 효과 확인 후 대용량으로 넘어갈 수 있습니다. 다만 쿠팡 리뷰 개수가 다른 제품에 비해 적은 편이므로 실제 후기를 더 찾아보는 것이 좋습니다.
@@ -68,7 +68,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 4위: 닥터독 강아지 기능성 사료 (소용량) — 기본 기능성 사료의 시작
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="닥터독 강아지 기능성 사료 소용량" caption="<strong>핵심 스펙</strong>: 기능성 사료, 로켓배송 (용량 정보 확인 필요)" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/c09eff7d3f888033.webp" alt="닥터독 강아지 기능성 사료 소용량" caption="<strong>핵심 스펙</strong>: 기능성 사료, 로켓배송 (용량 정보 확인 필요)" >}}
 <strong>장점 1</strong>은 '닥터독'이라는 브랜드명에서 느껴지는 전문성과 신뢰도입니다. <strong>장점 2</strong>는 32,500원으로 중간 가격대에 위치해 부담이 적다는 점입니다. <strong>아쉬운 점</strong>은 구체적인 용량과 성분 정보가 제품명에 명시되지 않아 구매 전 별도 확인이 필요하다는 것입니다.
 
 기능성 사료에 처음 도전하는 보호자라면 이 제품을 통해 반려견의 반응을 먼저 살펴볼 수 있습니다. 특히 소형견에게 적합한 소용량으로 보이며, 로켓배송으로 빠르게 배송됩니다. 다만 네이버 최저가가 83,500원으로 쿠팡 가격과 큰 차이가 있어 실제 용량을 꼭 확인한 후 구매하는 것이 좋습니다.
@@ -77,7 +77,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ## 5위: 닥터독 강아지 기능성 사료 (대용량) — 대형견용 고용량 옵션
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="닥터독 강아지 기능성 사료 대용량" caption="<strong>핵심 스펙</strong>: 기능성 사료, 로켓배송, 83,500원 (대용량)" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/c09eff7d3f888033.webp" alt="닥터독 강아지 기능성 사료 대용량" caption="<strong>핵심 스펙</strong>: 기능성 사료, 로켓배송, 83,500원 (대용량)" >}}
 <strong>장점 1</strong>은 대용량 제품으로 여러 마리나 대형견에게 경제적이라는 점입니다. <strong>장점 2</strong>는 같은 닥터독 브랜드라 일관된 성분으로 급여할 수 있다는 점입니다. <strong>아쉬운 점</strong>은 83,500원으로 가격 부담이 상당하며, 용량이 구체적으로 표기되지 않아 단가 비교가 어렵다는 점입니다.
 
 중형 이상의 반려견을 키우면서 정기적으로 기능성 사료를 급여하려는 보호자에게 적합합니다. 한 번 구매하면 오래 사용할 수 있어 자주 주문할 필요가 없습니다. 로켓배송이 가능하지만, 제품의 정확한 중량과 성분 정보는 쿠팡 상세 페이지에서 반드시 확인 후 구매하시기 바랍니다.

@@ -37,35 +37,35 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 <strong>POVEST 냉감패드 — 부담 없는 가격에 듀라론의 시원함</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="POVEST 냉감패드" caption="POVEST 냉감패드" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/81202a34021f9c5e.webp" alt="POVEST 냉감패드" caption="POVEST 냉감패드" >}}
 18,800원이라는 가격이 가장 큰 장점입니다. 듀라론 소재로 여름 내내 시원함을 유지해 주며, 로켓배송으로 다음 날 바로 받을 수 있습니다. 세탁이 가능해 관리도 간편합니다. 다만 두께가 얇아 침대 매트리스의 단단함이 그대로 느껴질 수 있습니다. 예산을 최대한 아끼면서도 냉감 효과를 보고 싶은 분에게 적합합니다. 한여름 더위에 지친 직장인이나 학생, 자취생에게 안성맞춤입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9562231251&itemId=28535857509&vendorItemId=95543126088&traceid=V0-153-41b13dbee56722b0&requestid=20260713180018010178601974&token=31850C%7CMIXED)
 
 <strong>르몽스 아이스필 냉감패드 — 접촉 즉시 시원한 감촉</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="르몽스 아이스필 냉감패드" caption="르몽스 아이스필 냉감패드" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/e98564010f20451f.webp" alt="르몽스 아이스필 냉감패드" caption="르몽스 아이스필 냉감패드" >}}
 25,800원, 로켓배송. '아이스필'이라는 이름처럼 누웠을 때 바로 시원함이 전해집니다. 원단이 매우 부드러워 피부에 닿는 감촉이 좋습니다. 장점은 즉각적인 냉감과 부드러움, 단점은 냉감 지속 시간이 듀라론에 비해 상대적으로 짧을 수 있다는 점입니다. 잠들기 전까지 시원하게 지내고 싶은 분에게 적합합니다. 특히 땀이 많지 않고 얇은 패드를 선호하는 분에게 추천합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9509129728&itemId=28336362748&vendorItemId=95281057078&traceid=V0-153-5dce071f43fec2ef&requestid=20260713180018010178601974&token=31850C%7CMIXED)
 
 <strong>라브릭 냉감 쿨매트 써머라이트 플러스 — 미끄러짐 방지로 편안함</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="라브릭 냉감 쿨매트" caption="라브릭 냉감 쿨매트" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/b2ef19532bbffbd7.webp" alt="라브릭 냉감 쿨매트" caption="라브릭 냉감 쿨매트" >}}
 39,900원, 로켓배송. '써머라이트 플러스' 소재가 표면 온도를 효과적으로 낮춰 줍니다. 가장 눈에 띄는 특징은 미끄럼 방지 코팅입니다. 침대에서 자주 뒤척이거나 아이가 있는 집에서도 패드가 밀리지 않아 좋습니다. 장점은 안정적인 고정과 시원함, 단점은 두께감이 있어 접어서 보관할 때 부피가 조금 있습니다. 자다가 패드가 구겨져서 불편함을 느끼는 분에게 추천합니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9486711577&itemId=28250128028&vendorItemId=95203955545&traceid=V0-153-c45b0d0efbc6aef6&clickBeacon=3645ccf0-759f-11f1-adc0-94f9c64ac89c%7E3&requestid=20260702075009569148317462&token=31850C%7CMIXED)
 
 <strong>모어슬립 듀라론 냉감패드 — 지속력 확실한 듀라론</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="모어슬립 듀라론 냉감패드" caption="모어슬립 듀라론 냉감패드" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2550e73dabbb3996.webp" alt="모어슬립 듀라론 냉감패드" caption="모어슬립 듀라론 냉감패드" >}}
 47,580원, 무료배송. 네이버 최저가 43,430원으로 조금 더 저렴하게 구매할 수 있는 제품입니다. 듀라론 소재의 장점인 오래가는 시원함과 부드러운 질감을 모두 갖췄습니다. 장점은 냉감 지속력이 뛰어나고 세탁 후에도 성능이 유지된다는 점, 단점은 로켓배송이 아니라 배송이 하루 정도 더 걸릴 수 있다는 점입니다. 여름 내내 한 번 구매로 오래 사용할 생각이라면 이 제품이 합격점입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9581031273&itemId=28800699548&vendorItemId=95736030387&traceid=V0-153-fc012aa869e1e362&requestid=20260713180018010178601974&token=31850C%7CMIXED)
 
 <strong>스르르 듀라론 3D 에어매쉬 냉감패드 — 통기성 최상의 고급형</strong>
 
-{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/common/default-thumbnail.webp" alt="스르르 듀라론 3D 에어매쉬 냉감패드" caption="스르르 듀라론 3D 에어매쉬 냉감패드" >}}
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/b698d3f7676798a1.webp" alt="스르르 듀라론 3D 에어매쉬 냉감패드" caption="스르르 듀라론 3D 에어매쉬 냉감패드" >}}
 79,800원, 무료배송. 3D 에어매쉬 구조로 공기 순환이 원활해 땀 차는 것을 최소화합니다. 국내 생산으로 품질 관리가 잘 되어 있습니다. 장점은 통기성이 매우 뛰어나고 내구성이 좋다는 점, 단점은 가격대가 높아 부담이 될 수 있다는 점입니다. 열이 많은 체질이거나 에어컨 없이도 시원하게 자고 싶다면 최고의 선택입니다.
 
 [쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9520568894&itemId=28380825083&vendorItemId=95332506043&traceid=V0-153-2fc0ff96f08763a7&requestid=20260713180018010178601974&token=31850C%7CMIXED)
