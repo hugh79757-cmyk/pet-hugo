@@ -30,7 +30,7 @@ enableCodeCopy = false
   showAuthor = false
   showBreadcrumbs = true
   showReadingTime = true
-  showTableOfContents = true
+  showTableOfContents = false
   showRelatedContent = false
   relatedContentLimit = 5
   showTaxonomies = true
@@ -53,4 +53,4 @@ enableCodeCopy = false
 [advertisement]
   adsense = "ca-pub-6677996696534146"
   inArticleSlot = "2195212287"
-  leaderboardSlot = "2195212287"
+  topSlot = "2195212287"

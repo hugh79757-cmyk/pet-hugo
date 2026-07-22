@@ -1,15 +1,20 @@
 ---
-title: "몽뜨리 강아지계단 vs BUNIO 슬개골보호 — 반려견 계단 2026 비교"
-date: 2026-07-04T07:01:09+09:00
+title: 몽뜨리 강아지계단 vs BUNIO 슬개골보호 반려견 계단 2026 비교
+date: 2026-07-04 07:01:09+09:00
 draft: false
-description: "2026년 7월 기준, 소형견이나 노령견을 키우는 집에서 가장 고민되는 것 중 하나가 바로 침대나 소파 높이입니다. 매일 뛰어오르고 내리는 동작이 반복되면 슬개골 탈구나 관절 손상으로 이어질 수 있어요. 높이가 40cm만 넘어도 체중 3kg 미만의 소형견에게는 큰 부담이 됩니다. 반려견"
-slug: "몽뜨리-강아지계단-vs-bunio-슬개골보호-반려견-계단-2026-비교"
-categories: ['추천']
-tags: ['계단', '시온', '뷰니오']
+description: 2026년 7월 기준, 소형견이나 노령견을 키우는 집에서 가장 고민되는 것 중 하나가 바로 침대나 소파 높이입니다. 매일 뛰어오르고
+  내리는 동작이 반복되면 슬개골 탈구나 관절 손상으로 이어질 수 있어요. 높이가 40cm만 넘어도 체중 3kg 미만의 소형견에게는 큰 부담이 됩니다.
+  반려견
+slug: 몽뜨리-강아지계단-vs-bunio-슬개골보호-반려견-계단-2026-비교
+categories:
+- 추천
+tags:
+- 계단
+- 시온
+- 뷰니오
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/04/a88c9706.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/04/a88c9706.webp"
-
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/04/a88c9706.webp
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/04/a88c9706.webp
 ---
 
 {{< lead >}}

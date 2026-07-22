@@ -1,15 +1,20 @@
 ---
-title: "TOP 5 그리니즈 — 인기 순위와 추천 이유"
-date: 2026-07-05T13:18:29+09:00
+title: TOP 5 그리니즈 인기 순위와 추천 이유
+date: 2026-07-05 13:18:29+09:00
 draft: false
-description: "강아지 치아 건강을 챙기려고 덴탈껌을 고르다 보면 브랜드도 너무 많고, 사이즈와 성분도 제각각이라 어떤 제품이 우리 아이에게 맞을지 고민되시죠? 2026년 7월 기준으로 쿠팡에서 가장 사랑받는 그리니즈 스타일 덴탈껌 5가지를 꼼꼼히 비교해드립니다. 소형견부터 중형견까지, 치석 관리와 입"
-slug: "top-5-그리니즈-인기-순위와-추천-이유"
-categories: ['추천']
-tags: ['누터스가든', '그리니즈', '포켄스']
+description: 강아지 치아 건강을 챙기려고 덴탈껌을 고르다 보면 브랜드도 너무 많고, 사이즈와 성분도 제각각이라 어떤 제품이 우리 아이에게
+  맞을지 고민되시죠? 2026년 7월 기준으로 쿠팡에서 가장 사랑받는 그리니즈 스타일 덴탈껌 5가지를 꼼꼼히 비교해드립니다. 소형견부터 중형견까지,
+  치석 관리와 입
+slug: top-5-그리니즈-인기-순위와-추천-이유
+categories:
+- 추천
+tags:
+- 누터스가든
+- 그리니즈
+- 포켄스
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/919c6b7e49b831b7.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/919c6b7e49b831b7.webp"
-
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/919c6b7e49b831b7.webp
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/919c6b7e49b831b7.webp
 ---
 
 {{< lead >}}

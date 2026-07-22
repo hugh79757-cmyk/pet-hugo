@@ -1,15 +1,22 @@
 ---
-title: "강아지계단 BEST 5 — EHEYCIGA 곡선형 쾌적 vs BUNIO 실속 선택"
-date: 2026-07-06T07:01:49+09:00
+title: 강아지계단 BEST 5 EHEYCIGA 곡선형 쾌적 vs BUNIO 실속 선택
+date: 2026-07-06 07:01:49+09:00
 draft: false
-description: "반려견이 매일 소파나 침대에 오르내릴 때마다 슬개골이 걱정되시나요? 특히 5kg 미만의 소형견이나 노령견은 단 10cm 높이의 점프도 관절에 큰 부담을 줍니다. 2026년 7월 기준으로 강아지계단 시장에는 논슬립, 고밀도 스폰지, 분리형 커버 등 다양한 기능이 적용된 제품이 늘어나고 있"
-slug: "강아지계단-best-5-eheyciga-곡선형-쾌적-vs-bunio-실속-선택"
-categories: ['추천']
-tags: ['강아지계단', '레토', '슈퍼펫', '레토지엠에스', '뷰니오']
+description: 반려견이 매일 소파나 침대에 오르내릴 때마다 슬개골이 걱정되시나요? 특히 5kg 미만의 소형견이나 노령견은 단 10cm 높이의
+  점프도 관절에 큰 부담을 줍니다. 2026년 7월 기준으로 강아지계단 시장에는 논슬립, 고밀도 스폰지, 분리형 커버 등 다양한 기능이 적용된 제품이
+  늘어나고 있
+slug: 강아지계단-best-5-eheyciga-곡선형-쾌적-vs-bunio-실속-선택
+categories:
+- 추천
+tags:
+- 강아지계단
+- 레토
+- 슈퍼펫
+- 레토지엠에스
+- 뷰니오
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6e93b248360fd82d.webp"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6e93b248360fd82d.webp"
-
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6e93b248360fd82d.webp
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/6e93b248360fd82d.webp
 ---
 
 <p class="lead">
