@@ -25,8 +25,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-left:4px solid #d97706;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
-<div style="display:flex;flex-wrap:wrap"><a href="https://baby.informationhot.kr/posts/20260721-아기-이유식-용품-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#d97706;font-weight:600;font-size:14px;margin-right:12px">👶 아기 이유식 용품 추천 추천</a>
-<a href="https://kitchen.informationhot.kr/posts/20260721-수동착즙기-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#d97706;font-weight:600;font-size:14px;margin-right:12px">🍳 수동착즙기 추천 추천</a>
+<div style="display:flex;flex-wrap:wrap"><a href="https://baby.informationhot.kr/posts/아기-이유식-용품-추천-자기주도-휘어지는-이유식-스푼-포크-세트/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#d97706;font-weight:600;font-size:14px;margin-right:12px">👶 아기 이유식 용품 추천 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/수동착즙기-추천-휴롬-슬림형-착즙기-h310a-bfc04wh-vs-투데이리빙-대형-스텐-착즙기/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#d97706;font-weight:600;font-size:14px;margin-right:12px">🍳 수동착즙기 추천 추천</a>
 </div>
 </div>
 {{< /lead >}}
@@ -116,8 +116,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 <div style="display:flex;flex-wrap:wrap;gap:4px">
 <a href="https://baby.informationhot.kr/posts/유닛키즈-쏘서-3in1-vs-브라이트스타트-바운스-액티비티-아기-쏘서-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 쏘서 추천</a>
 <a href="https://kitchen.informationhot.kr/posts/리빙센스-더글라스-티포트-vs-퀸센스-전기-티포트-2026년-티포트-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 티포트 추천</a>
-<a href="https://interior.informationhot.kr/posts/2026년-7월-2층-침대-추천-일루일루-코지스칸디아-시몬-14만원대부터-73만원대까지-실속-비교/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 2층 침대 추천</a>
-<a href="https://health.informationhot.kr/posts/2026년-7월-뼈-건강-영양제-추천-광동삼성제약-실속부터-고함량까지/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 뼈 건강 영양제 추천</a>
+<a href="https://interior.informationhot.kr/posts/2cheung-bed-recommend-illu-illu-kojiseukandi-a-simon-14man-wondaebuteo-73man-wondae-kkaji-practical-compare/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 2층 침대 추천</a>
+<a href="https://health.informationhot.kr/posts/ppyeo-geongang-supplement-recommend-insake-eo-teunteunhan-chi-a-vs-ssiseupang-jointpalpal-peulleoseu/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 뼈 건강 영양제 추천</a>
 </div>
 </div>
 

@@ -156,8 +156,8 @@ featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-image
 <div style="display:flex;flex-wrap:wrap;gap:4px">
 <a href="https://baby.informationhot.kr/posts/토몽-vs-리틀클라우드-실제-써본-엄마가-말하는-아기욕조-top-5/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶  육아백과 추천 추천</a>
 <a href="https://kitchen.informationhot.kr/posts/2026년-7월-그릴가방-추천-스테츠-핏보이캠핑몽-카고-상황별-실속-선택/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 그릴가방 추천</a>
-<a href="https://interior.informationhot.kr/posts/2026년-7월-퀸-침대-추천-흔한-오해-3가지-오키멧아너스하포스-사례로-바로잡기/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 퀸 침대 추천 추천</a>
-<a href="https://health.informationhot.kr/posts/2026년-7월-항산화-영양제-추천-뉴트리정gnm동화약품-하루-300원대부터-시작하는-선택/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 항산화 영양제 추천 추천</a>
+<a href="https://interior.informationhot.kr/posts/퀸-침대-프레임-추천-동서가구-이즈-카이와-아너스-led-침대프레임-비교/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 퀸 침대 추천 추천</a>
+<a href="https://health.informationhot.kr/posts/항산화-영양제-추천-모아담다-피부-종근당-코큐텐-프리미엄/"" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 항산화 영양제 추천 추천</a>
 </div>
 </div>
 
