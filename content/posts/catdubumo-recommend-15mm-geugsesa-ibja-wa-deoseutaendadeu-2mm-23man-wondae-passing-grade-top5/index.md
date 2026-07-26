@@ -1,0 +1,172 @@
+---
+title: "고양이두부모 추천 1.5mm 극세사입자와 더스탠다드 2mm, 2~3만원대 합격점 TOP5"
+date: "2026-07-23T10:06:12+09:00"
+draft: "false"
+description: "고양이 화장실 앞에서 매일 고민하는 집사라면 공감할 거예요. “이번에 산 두부모래는 입자가 너무 굵어서 모래 밖으로 흘러내리고, 냄새는 잘 잡히지 않는데 가격은 부담스럽다”는 생각, 한 번쯤 해보셨죠? 2026년 7월 기준으로 시중에 나온 두부모래 중에서 실속 있는 선택을 골라봤습니다."
+slug: "catdubumo-recommend-15mm-geugsesa-ibja-wa-deoseutaendadeu-2mm-23man-wondae-passing-grade-top5"
+categories: ['추천']
+tags: ['깔끄미', '펫원', '테비토퍼', '고양이두부모', '반려곳간']
+cover: 
+  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/70c895df//2026/07/23/6a474e4f.webp"
+  relative: "true"
+featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/70c895df//2026/07/23/6a474e4f.webp"
+
+
+
+---
+
+{{< lead >}}
+<div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">
+<p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>
+<div style="display:flex;flex-wrap:wrap"><a href="https://baby.informationhot.kr/posts/20260723-아기-침대-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#d97706;font-weight:600;font-size:14px;margin-right:12px">👶 아기 침대 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/20260723-냄비-추천/" style="display:inline-flex;align-items:center;gap:4px;text-decoration:none;color:#d97706;font-weight:600;font-size:14px;margin-right:12px">🍳 냄비 추천</a>
+</div>
+</div>
+{{< /lead >}}
+
+
+
+고양이 화장실 앞에서 매일 고민하는 집사라면 공감할 거예요. “이번에 산 두부모래는 입자가 너무 굵어서 모래 밖으로 흘러내리고, 냄새는 잘 잡히지 않는데 가격은 부담스럽다”는 생각, 한 번쯤 해보셨죠? 2026년 7월 기준으로 시중에 나온 두부모래 중에서 실속 있는 선택을 골라봤습니다. 1.5mm 극세사입자부터 2mm 가는입자까지, 꼼꼼히 비교해 드릴게요.
+
+## 두부모래 고를 때 확인할 포인트
+
+두부모래는 일반 벤토나이트 모래보다 가볍고 화장실에 버릴 수 있어 인기가 많지만, 제품마다 차이가 확실합니다. 선택할 때 꼭 살펴야 할 기준을 정리했습니다.
+
+<strong>입자 크기</strong> – 1.5mm 극세사입자는 고양이 발바닥에 끼는 모래가 적고, 2mm 입자는 응고력이 더 단단한 편입니다. 털이 긴 고양이라면 1.5mm가 덜 달라붙고, 응고력이 중요한 냥이라면 2mm가 유리합니다.
+
+<strong>수분 코팅 여부</strong> – 코팅된 모래는 소변이 닿았을 때 빠르게 뭉쳐지고, 냄새 차단 효과가 큽니다. 반려곳간 제품처럼 수분코팅이 적용된 모래는 장기 사용 시 냄새 관리가 편합니다.
+
+<strong>향과 무향</strong> – 고양이는 후각이 예민해 강한 향에 스트레스를 받을 수 있습니다. 처음 사용하는 모래라면 무향이나 약한 밀크향 정도가 무난합니다. 구구펫과 반려곳간은 무향 옵션이 있어 민감한 냥이에게 좋아요.
+
+<strong>가격 대비 용량</strong> – 1박스(5~6개) 기준 2만 원 초반대부터 3만 5천 원까지 다양합니다. 같은 가격이라도 총 리터 수(L)나 개수를 따져봐야 합니다. 예를 들어 깔끄미는 8L 6개(총 48L)인 반면, 더스탠다드는 7L 6개(총 42L)로 용량 차이가 있습니다.
+
+이 기준으로 비교하면 어떤 제품이 좋을지 살펴볼까요?
+
+## 한눈에 보는 비교표
+
+| 제품 | 가격 | 입자 크기 (용량) | 향 | 배송 | 적합 동물 |
+|------|------|------------------|----|------|-----------|
+| 구구펫 극세입자 | 20,140원 | 극세입자 (3kg×6개, 무향) | 무향 | 로켓배송 | 모든 고양이 |
+| 테비토퍼 두부두부 프리미엄 | 20,800원 | 극세입자 (정보 미기재) | 미기재 | 일반배송 | 모든 고양이 |
+| 깔끄미 1.5mm 극세사입자 | 32,900원 | 1.5mm (8L×6개, 밀크향) | 밀크향 | 무료배송 | 모든 고양이 |
+| 반려곳간 수분코팅 1.5mm | 33,800원 | 1.5mm (7L×5개, 무향) | 무향 | 무료배송 | 모든 고양이 |
+| 더스탠다드 가는입자 2mm | 35,000원 | 2mm (7L×6개, 녹차) | 녹차향 | 로켓배송 | 모든 고양이 |
+
+가격 차이가 꽤 나죠? 가장 저렴한 구구펫과 테비토퍼는 2만 원 초반, 깔끄미와 반려곳간은 3만 2천 원대, 더스탠다드는 3만 5천 원입니다. 무게나 용량을 고려해야 하니 아래에서 하나씩 비교했습니다.
+
+## 1위: 구구펫 극세입자 고양이 두부 모래스 — 가격 대비 합격점 1순위
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/deb61bc6c5202ac7.webp" alt="구구펫 극세입자 고양이 두부 모래" caption="<strong>가격:</strong> 20,140원 (3kg×6개, 무향)" >}}
+<strong>배송:</strong> 로켓배송
+
+하루에도 몇 번씩 화장실을 치우는 집사라면 모래 소모량이 꽤 됩니다. 구구펫 극세입자는 3kg 용량이 6개나 들어 있어 한 박스로 한 달 이상 사용할 수 있습니다. 극세입자라 고양이 발바닥에 덜 끼고, 무향 제품이라 향에 민감한 냥이도 부담 없이 사용할 수 있어요.
+
+장점은 가격이 가장 저렴하면서 로켓배송으로 빠르게 받을 수 있다는 점입니다. 아쉬운 점은 입자가 너무 가벼워 소변이 묻었을 때 응고력이 약간 약한 편이라, 여러 마리를 키우는 집사라면 자주 갈아줘야 할 수 있습니다. 1~2마리 소형묘 가정에 추천합니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9249680810&itemId=28120098257&vendorItemId=95075944356&traceid=V0-153-6f68caa2f412f85f&clickBeacon=4974d3c0-8643-11f1-9a23-b14fe79583d0%7E3&requestid=20260723120457780106494931&token=31850C%7CMIXED)
+
+## 2위: 테비토퍼 두부두부 프리미엄 고양이 모래 — 합리적인 프리미엄 선택
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/58358c1dc30a9554.webp" alt="테비토퍼 두부두부 프리미엄 고양이 모래" caption="<strong>가격:</strong> 20,800원 (용량 미기재)" >}}
+<strong>배송:</strong> 일반배송
+
+테비토퍼는 이름에 ‘프리미엄’이 붙은 만큼 품질에 신경 쓴 제품입니다. 극세입자라 응고가 빠르고, 냄새 차단이 꽤 괜찮다는 후기가 많습니다. 가격도 2만 원 초반으로 부담이 적어 예산이 빠듯할 때 고려해 볼 만해요.
+
+장점은 저렴한 가격에 준수한 응고력을 보여준다는 점입니다. 1~2마리 고양이를 키우며 자주 갈아주는 집사에게 적합합니다. 아쉬운 점은 용량 정보가 명확하지 않고 일반배송이라 로켓배송보다 하루 정도 더 기다려야 할 수 있습니다. 또한 개별 포장이 아니라 한 박스로 오기 때문에 보관 공간이 필요합니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8844692117&itemId=20392995881&vendorItemId=80190514327&traceid=V0-153-71c3d29b1f409460&requestid=20260723120457780106494931&token=31850C%7CMIXED)
+
+## 3위: 깔끄미 고양이두부모래 1.5mm 극세사입자 — 쿠팡 1위, 8L 대용량
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/2a7a99856e382d72.webp" alt="깔끄미 고양이두부모래 1.5mm 극세사입자" caption="<strong>가격:</strong> 32,900원 (8L×6개, 밀크향)" >}}
+<strong>배송:</strong> 무료배송
+
+깔끄미는 쿠팡 반려동물용품 카테고리에서 1위를 차지한 제품입니다. 8L 용량이라 한 번 구매하면 오래 사용할 수 있어요. 1.5mm 극세사입자로 설계되어 모래가 화장실 밖으로 덜 나가고, 밀크향이 은은하게 퍼져 냄새를 커버해 줍니다.
+
+장점은 대용량(총 48L)이라 가격 대비 사용 기간이 길고, 쿠팡 랭킹 1위 답게 많은 집사가 선택했다는 신뢰도가 있습니다. 아쉬운 점은 밀크향이 생각보다 강할 수 있어 극도로 민감한 고양이에게는 무향이 더 나을 수 있다는 점입니다. 네이버 최저가 25,020원보다 쿠팡 가격이 조금 높으니, 다른 플랫폼도 확인해 보세요.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=7572200473&itemId=19972434627&vendorItemId=86949316212&traceid=V0-153-b3fd39c5f3b90102&clickBeacon=4974d3c0-8643-11f1-a0da-0c4ab808d4a4%7E3&requestid=20260723120457780106494931&token=31850C%7CMIXED)
+
+## 4위: 반려곳간 수분코팅 두부모래 1.5mm 극세입자 — 냄새 걱정 줄이는 수분코팅
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/d7d7fe48993f5369.webp" alt="반려곳간 수분코팅 두부모래 1.5mm" caption="<strong>가격:</strong> 33,800원 (7L×5개, 무향)" >}}
+<strong>배송:</strong> 무료배송
+
+반려곳간은 제품명 그대로 수분코팅이 적용된 극세입자 모래입니다. 소변이 닿으면 빠르게 뭉쳐지고, 냄새를 모래 안쪽에 가둬주는 기능이 있어요. 특히 무향 제품이라 고양이 호흡기에 자극이 적어 안심할 수 있습니다.
+
+장점은 수분코팅 덕분에 응고력이 좋아 배변 뭉치가 쉽게 부서지지 않는다는 점입니다. 길고 긴 털을 가진 페르시안이나 메인쿤 같은 장모종도 모래가 덜 달라붙습니다. 아쉬운 점은 7L 5개로 총 용량이 깔끄미보다 작아(35L vs 48L) 가격 대비 용량 면에서 다소 아쉽습니다. 그래도 냄새 관리가 중요한 집사라면 충분히 선택할 가치가 있습니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=8123667763&itemId=23853438323&vendorItemId=93484087687&traceid=V0-153-6c4dd2361e910c83&clickBeacon=4974d3c0-8643-11f1-8c7a-169cbd477897%7E3&requestid=20260723120457780106494931&token=31850C%7CMIXED)
+
+## 5위: 더스탠다드 가는입자 2mm 고양이 두부모래 — 응고력에 강한 2mm, 로켓배송
+
+{{< figure src="https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/thumbnails/62e93061b9a9af67.webp" alt="더스탠다드 가는입자 2mm 고양이 두부모래" caption="<strong>가격:</strong> 35,000원 (7L×6개, 녹차향)" >}}
+<strong>배송:</strong> 로켓배송
+
+더스탠다드는 2mm 입자로 응고력에 초점을 맞춘 제품입니다. 입자가 조금 더 굵어서 소변이 닿았을 때 단단하게 뭉쳐지고, 긁어내도 잘 부서지지 않습니다. 녹차향이 은은하게 나서 모래 특유의 암모니아 냄새를 잡아줍니다.
+
+장점은 로켓배송으로 다음 날 바로 받을 수 있고, 응고력이 가장 확실하다는 점입니다. 여러 마리 고양이를 키워 모래 소모가 빠른 집사나, 자주 갈아주기 어려운 환경이라면 이 제품이 도움이 됩니다. 아쉬운 점은 가격이 35,000원으로 가장 비싸다는 점과, 녹차향이 고양이에 따라 거부감을 줄 수 있다는 점입니다. 무향을 선호한다면 반려곳간이나 구구펫이 더 나을 수 있습니다.
+
+[쿠팡에서 최저가 확인하기](https://link.coupang.com/re/AFFSDP?lptag=AF9686293&pageKey=9542763608&itemId=28466320381&vendorItemId=95416666103&traceid=V0-153-6304ab28c264b2e8&clickBeacon=4974d3c0-8643-11f1-ba2a-ffcf9a8254f2%7E3&requestid=20260723120457780106494931&token=31850C%7CMIXED)
+
+## 자주 묻는 질문
+
+### 두부모래는 화장실에 버려도 되나요?
+네, 두부모래는 대부분 수용성이라 변기에 버려도 됩니다. 다만 한 번에 너무 많은 양을 한꺼번에 흘려보내면 막힐 수 있으니, 소량씩 나눠서 내려주세요. 반드시 제품 포장에 '수용성' 표시가 있는지 확인하는 것이 좋습니다.
+
+### 1.5mm와 2mm 중 어떤 게 더 좋나요?
+고양이 털 길이와 화장실 환경에 따라 다릅니다. 장모종이라면 1.5mm가 덜 엉키고, 단모종이거나 응고력을 중시한다면 2mm가 안정적입니다. 여러 마리를 키운다면 응고력이 좋은 2mm(더스탠다드)를 추천합니다.
+
+### 로켓배송 상품은 어떤 게 있나요?
+이번 추천 중 로켓배송이 가능한 제품은 구구펫 극세입자(20,140원)와 더스탠다드 2mm(35,000원)입니다. 다음 날 빠르게 받을 수 있어 급하게 필요할 때 유용합니다.
+
+### 무향과 향이 있는 모래, 고양이에게 차이가 있나요?
+고양이는 개보다 후각이 10배 이상 예민합니다. 강한 향은 스트레스 요인이 될 수 있어요. 처음 사용해 보는 모래라면 무향이나 약한 밀크향, 녹차향 정도가 무난합니다. 깔끄미(밀크향), 더스탠다드(녹차향)는 은은한 향이라 호불호가 덜합니다.
+
+### 가격 부담을 덜고 싶다면 어떤 제품을 골라야 하나요?
+가장 저렴한 구구펫(20,140원)이 3kg×6개로 양도 넉넉해 실속 있는 선택입니다. 테비토퍼(20,800원)도 비슷한 가격대지만 배송이 일반배송이므로 시간 여유가 있을 때 고려하세요.
+
+## 상황별 추천 정리
+
+<strong>예산을 최대한 아끼면서 자주 갈아주는 집사</strong>라면 구구펫 극세입자(20,140원, 로켓배송)를 추천합니다. 가격 대비 용량이 넉넉하고 무향이라 고양이도 편하게 사용할 수 있습니다.
+
+<strong>냄새 관리에 진심이고, 응고력이 중요한 집사</strong>라면 반려곳간 수분코팅(33,800원)이나 더스탠다드 2mm(35,000원) 중에서 고르세요. 특히 여러 마리 고양이를 키우거나 하루에 한 번밖에 화장실을 치울 시간이 없다면 응고력이 확실한 더스탠다드가 도움이 됩니다.
+
+<strong>대용량으로 오래 쓰고 싶고, 향이 약간 있는 것을 선호</strong>한다면 깔끄미 1.5mm(32,900원)가 좋습니다. 8L 6개로 총 48L로 가장 많은 양을 제공하며, 밀크향이 쾌적함을 더해줍니다. 로켓배송은 아니지만 무료배송이라 부담이 적습니다.
+
+<strong>처음 두부모래를 사용해 보는 초보 집사</strong>라면 테비토퍼(20,800원)나 구구펫으로 가볍게 시작해 보세요. 가격이 낮아 실패 부담이 적고, 고양이 반응을 본 후 다른 제품으로 갈아타도 좋습니다.
+
+로켓배송 표기 제품을 우선 고려하세요. 구구펫과 더스탠다드는 다음 날 도착하므로 급하게 필요할 때 특히 유용합니다.
+
+이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+
+<div class="cta-box" style="background:#f8f9fa;padding:16px;border-radius:8px;text-align:center;margin:24px 0">
+<p style="font-size:16px;font-weight:700;margin:0 0 8px">💡 구매 팁</p>
+<p style="font-size:14px;margin:0 0 12px;color:#555">위 상품들의 가격은 변동될 수 있으니 최신 가격을 꼭 확인해보세요.<br>아래 링크에서 자세한 정보와 후기를 확인할 수 있습니다.</p>
+</div>
+
+<div style="margin:20px 0;padding:16px;background:#fafbfc;border-radius:12px;border:1px solid #e8ecf0">
+<p style="margin:0 0 10px;font-weight:600;font-size:15px;color:#374151">🛍️ 이런 상품도 좋아하실 거예요</p>
+<div style="display:flex;flex-wrap:wrap;gap:4px">
+<a href="https://baby.informationhot.kr/posts/20260723-아기-침대-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">👶 아기 침대 추천</a>
+<a href="https://kitchen.informationhot.kr/posts/20260723-냄비-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍳 냄비 추천</a>
+<a href="https://interior.informationhot.kr/posts/20260723-가구느낌가구밸리다용도테이블가방/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🛋️ 가구느낌가구밸리다용도테이블가방 추천</a>
+<a href="https://health.informationhot.kr/posts/20260723-혈행-개선-영양제-추천/" style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;background:#f0f7ff;border:1px solid #d0e3ff;border-radius:8px;text-decoration:none;color:#1a56db;font-size:14px;margin:4px">🍎 혈행 개선 영양제 추천</a>
+</div>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "고양이두부모 추천 1.5mm 극세사입자와 더스탠다드 2mm, 2~3만원대 합격점 TOP5",
+  "description": "고양이 화장실 앞에서 매일 고민하는 집사라면 공감할 거예요. “이번에 산 두부모래는 입자가 너무 굵어서 모래 밖으로 흘러내리고, 냄새는 잘 잡히지 않는데 가격은 부담스럽다”는 생각, 한 번쯤 해보셨죠? 2026년 7월 기준으로 시중에 나온 두부모래 중에서 실속 있는 선택을 골라봤습니다.",
+  "datePublished": "2026-07-23T10:06:12+09:00",
+  "author": {
+    "@type": "Person",
+    "name": "반려동물용품 추천 가이드"
+  },
+  "url": "https://pet.informationhot.kr/posts/고양이두부모-추천-15mm-극세사입자와-더스탠다드-2mm-23만원대-합격점-top5/",
+  "keywords": "깔끄미, 펫원, 테비토퍼, 고양이두부모, 반려곳간"
+}
+</script>
