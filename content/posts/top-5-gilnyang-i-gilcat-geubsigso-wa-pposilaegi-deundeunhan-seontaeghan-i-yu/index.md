@@ -59,7 +59,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 ![뽀시래기 든든한 고양이 사료](https://ads-partners.coupang.com/image1/JobXD4uYNdtm1Hw9JgYxeW9TtwuqZtwELMKMGGJjdG2IPQH78AVji_n38s7XdhXUmz_Cn7iLJChNEAzrxphDwos8xzyAAcETNPmDOQM92RRII-WGwiDn4162wZzJsGYx8MzB1ocztg9fXGli6o7Pexjx8tSNGztbOkq2yJUejMdI7uRSRDcDNI56xs2Cht9DpnA4xeM8Ga3W7zxIPZX9cifhPWorAy002QJBPFLFhgudT3YrpsrgiXlA5GZDCdg6ew-0k7htcWgSe5vnHjhBbTgDU1bA_FAD7B0BR7AS6dL2W08GWSrp9_1dUmbTgZrkw1I=)
 
-길냥이的健康을 생각한다면 영양소 구성이 가장 중요합니다. 뽀시래기 든든한 고양이 사료는 엘라이신(L-Lysine)이 함유되어 있어 면역력 유지에 도움을 줍니다. 5kg 대용량으로 여러 마리의 길냥이를 돌보는 경우에도 부담 없이 사용할 수 있습니다. 전 연령용이라 새끼 고양이부터 어른 고양이까지 모두 급여 가능합니다.
+길냥이의 건강을 생각한다면 영양소 구성이 가장 중요합니다. 뽀시래기 든든한 고양이 사료는 엘라이신(L-Lysine)이 함유되어 있어 면역력 유지에 도움을 줍니다. 5kg 대용량으로 여러 마리의 길냥이를 돌보는 경우에도 부담 없이 사용할 수 있습니다. 전 연령용이라 새끼 고양이부터 어른 고양이까지 모두 급여 가능합니다.
 
 <strong>장점:</strong> 5kg 대용량에 19,800원이라는 가격으로 가격 대비 만족도가 높습니다. 엘라이신 성분이 호흡기 건강을 지원합니다.
 

@@ -71,7 +71,7 @@ TV홈쇼핑 정품으로 소개된 제품으로, ‘브리티시 로얄 소가�
 ## 5위: 크로브 스트릿 크로스백 메신저 슬링백 – 트렌디한 스트릿 무드의 완성
 ![크로브 스트릿 크로스백](https://ads-partners.coupang.com/image1/aLJptTWlzA01kP04aMvvqEVnfqSj0bZCoL08g1ajbFgW-bz41u2FmTjlC9EJ1oNHp9hhJq94CZiX2D_6eVYF9ZksYjbrBoK2ZOD3uuY3OEnlkfQWNu-AZ0QYLhfe5TFJOL5SLFErEznQlzsiWlh4hK9iZEcHBN-9IVhQ0FNCbxgbd8hKkqFFAR7F5GPhNCjBZWiDZw2uJKApyaleH-jIDhc72KeZHYnuFthdpTUQpwzhpjQvLTRH4M3pCiz0AQlXyCLoryfYSUcZozgrpxhOMFYWjGNompMbtA2JQpeocoZfHK1vCeMFfUg=)
 
-가격은 40,000원으로本次介绍한 제품 중 가장 높지만, 쿠팡순위 2위에 오른 인기 상품입니다. ‘스트릿 크로스백’이라는 이름에서 힙합이나 스트릿 패션에 관심 많은 분들에게 어울리는 감각적인 디자인이 예상됩니다.
+가격은 40,000원으로이번에 소개한 제품 중 가장 높지만, 쿠팡순위 2위에 오른 인기 상품입니다. ‘스트릿 크로스백’이라는 이름에서 힙합이나 스트릿 패션에 관심 많은 분들에게 어울리는 감각적인 디자인이 예상됩니다.
 
 메신저백과 슬링백 스타일로 다양하게 착용 가능하며, 트렌디한 룩에 포인트를 주기 좋습니다. 로켓배송이 가능해 주문 후 빠르게 받아볼 수 있는 장점이 있습니다. 디자인적인 매력이 가장 큰 이 상품은, 남들과 다른 개성 있는 스타일링을 추구하는 분들에게 추천합니다. 다만, 네이버 최저가와의 가격 차이가 있어 구매 전 꼭 비교해보시기 바랍니다.
 

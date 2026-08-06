@@ -1,7 +1,7 @@
 ---
 title: "강아지슬링백 추천 TOP5 (2026년)"
 date: "2026-07-22T07:06:03+09:00"
-draft: "false"
+draft: true
 description: "2026년 7월 강아지슬링백 추천 — HERON 통기성 경량 포함 4종 실속 총정리 반려견과 함께 외출할 때, 손이 자유롭지 않아 불편했던 적이 많다. 특히 소형견을 키우는 반려인이라면 강아지슬링백 하나쯤은 고민해봤을 것이다. 2026년 7월 기준, 시장에 나온 다양한 제품 중에서 진짜"
 slug: "dogseullingbaeg-recommend-top5-2026"
 categories: ['추천']

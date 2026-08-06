@@ -1,7 +1,7 @@
 ---
 title: "뉴트리플랜 추천 TOP5 (2026년)"
 date: "2026-07-13T20:01:41+09:00"
-draft: "false"
+draft: true
 description: "제목: <strong>뉴트리플랜 vs 로얄 미쵸캔 — 고양이 습식사료 오해 3가지 (2026년 기준)</strong>"
 slug: "nyuteulipeullaen-recommend-top5-2026"
 

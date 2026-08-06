@@ -2,10 +2,10 @@
 title: '파스텔펫민소매 나시 3종 비교 반려동물 시원한 여름옷 추천'
 date: 2026-08-01T20:03:40+09:00
 draft: true
-description: 'The user wants a blog post in Korean about pet cool clothes (반려동물涼爽옷). They provided 3 products:'
+description: 'The user wants a blog post in Korean about pet cool clothes (반려동물시원옷). They provided 3 products:'
 slug: '파스텔펫민소매-나시-3종-비교-반려동물-시원한-여름옷-추천'
 categories: ['추천']
-tags: ['반려동물涼爽옷']
+tags: ['반려동물시원옷']
 cover:
   image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/58383c6f//2026/08/01/8157f120.webp'
   relative: true
@@ -22,7 +22,7 @@ featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-imag
 
 
 
-The user wants a blog post in Korean about pet cool clothes (반려동물涼爽옷). They provided 3 products:
+The user wants a blog post in Korean about pet cool clothes (반려동물시원옷). They provided 3 products:
 
 1. 파스텔펫 반려동물 빅 스트라이프 피케이 티셔츠 - 7,080원, 로켓배송, 쿠팡순위 4위
 2. [3장 세트] 입체 캐릭터 강아지 하네스 옷 귀여운 애견 여름옷 티셔츠 소형견 강아지 나시 - 16,800원, 로켓배송, 쿠팡순위 6위
@@ -35,7 +35,7 @@ Title rules:
 - No "가성비" → use "합격점", "실속", "가격 대비"
 - Title length 25-55 characters including spaces
 - Avoid recent titles structure
-- Title style: 반려동물涼爽옷 어떤 걸 골라야 할까? 상황별 추천
+- Title style: 반려동물시원옷 어떤 걸 골라야 할까? 상황별 추천
 
 Need to avoid:
 - Recent titles about cat hairball food, pet door, dog food comparisons
@@ -58,7 +58,7 @@ Let me make sure it's natural. Maybe: "파스텔펫·강아지 민소매 나시 
 Let me craft the title: "파스텔펫·강아지 민소매 나시 비교 — 8월 반려동물 시원한 옷 추천" 
 파스텔펫(4)·(1)강아지(3) space(1) 민소매(3) space(1) 나시(2) space(1) 비교(2) space(1) —(1) space(1) 8월(2) space(1) 반려동물(4) space(1) 시원한(3) space(1) 옷(1) space(1) 추천(2) = 4+1+3+1+3+1+2+1+2+1+1+1+2+1+4+1+3+1+1+1+2 = 37. Good.
 
-Actually the style requested says: "이번 글의 제목 스타일: 반려동물涼爽옷 어떤 걸 골라야 할까? 상황별 추천" - so they want a title similar to "반려동물 시원한 옷 어떤 걸 골라야 할까? 상황별 추천" style. Let me incorporate.
+Actually the style requested says: "이번 글의 제목 스타일: 반려동물시원옷 어떤 걸 골라야 할까? 상황별 추천" - so they want a title similar to "반려동물 시원한 옷 어떤 걸 골라야 할까? 상황별 추천" style. Let me incorporate.
 
 Title: "파스텔펫·민소매 나시 어떤 걸로? 2026년 8월 반려동물 옷 비교" 
 Contains 파스텔펫, 민소매 (from 강아지옷 민소매 면), 비교. Length: 파스텔펫(4)·(1)민소매(3)space(1)나시(2)space(1)어떤(2)space(1)걸로(2)?(1)space(1)2026년(5)space(1)8월(2)space(1)반려동물(4)space(1)옷(1)space(1)비교(2) = 4+1+3+1+2+1+2+1+2+1+1+1+5+1+2+1+4+1+1+1+2 = 38. Good.
@@ -260,13 +260,13 @@ Content:
   "@context": "https://schema.org",
   "@type": "Article",
   "name": "파스텔펫민소매 나시 3종 비교 반려동물 시원한 여름옷 추천",
-  "description": "The user wants a blog post in Korean about pet cool clothes (반려동물涼爽옷). They provided 3 products:",
+  "description": "The user wants a blog post in Korean about pet cool clothes (반려동물시원옷). They provided 3 products:",
   "datePublished": "2026-08-01T20:03:40+09:00",
   "author": {
     "@type": "Person",
     "name": "반려동물용품 추천 가이드"
   },
   "url": "https://pet.informationhot.kr/posts/파스텔펫민소매-나시-3종-비교-반려동물-시원한-여름옷-추천/",
-  "keywords": "반려동물涼爽옷"
+  "keywords": "반려동물시원옷"
 }
 </script>

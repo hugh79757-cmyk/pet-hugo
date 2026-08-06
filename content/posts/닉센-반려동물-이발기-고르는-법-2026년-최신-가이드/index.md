@@ -69,7 +69,7 @@ LCD 화면에 배터리 잔량이 표시되어 미용 중 갑자기 전원이 �
 
 {{< figure src="https://ads-partners.coupang.com/image1/86XwwZBYZyTg79Ok89xFGWvPhTlbEoYqjxiaQYteYZ3oRZ5_JV7br2aP2Bh1TdJ5MsXLDR-affo-vhLD8sdn33ZXxz918H-OsTNj-vcYQcGxHzGOVjya-dsvLkRPXvgbRXOWi1SdqoHahSB5Zs6pmh-kHwAh6gkeNAk6FF8OSwVCB_M1X6F0mf5cF8ly4By0ha2ctWeq1b619xqOczBRGQ92LACmWO4smPQBv6TD4_-CHZBeJeXbK8sac2C3bkR995jtkDT3C_709YPOy49ZwUb9GbKuHm5HL8_E" alt="닉센 스마트 큐 JP-401" caption="스마트 디스플레이가 장착되어 작동 상태를 한눈에 확인할 수 있습니다. 강아지와 고양이 모두 사용 가능하며, 다양한 길이의 안전 가이드가 포함되어 있어 털 길이를 세밀하게 조절할 수 있습니다. 대형견부터 소형묘까지 폭넓게 대응합니다." >}}
 <strong>장점:</strong> 스마트 디스플레이로 배터리와 작동 모드를 직관적으로 확인할 수 있습니다. 다용도 가이드가 풍부해 다양한 스타일링이 가능합니다.
-<strong>아쉬운 점:</strong> NX3000과 비교해 가격이 높지만 LCD 외에 큰 차별점이不明显합니다.
+<strong>아쉬운 점:</strong> NX3000과 비교해 가격이 높지만 LCD 외에 큰 차별점이뚜렷하지 않다합니다.
 
 여러 마리의 반려동물을 키우는 가정이라면 스마트 큐 JP-401이 좋은 선택입니다. 강아지와 고양이 모두 사용할 수 있고, 디스플레이를 통해 충전 상태를 바로 확인할 수 있어 관리가 편리합니다.
 
