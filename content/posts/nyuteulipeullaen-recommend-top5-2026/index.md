@@ -1,14 +1,13 @@
 ---
-title: "뉴트리플랜 추천 TOP5 (2026년)"
-date: "2026-07-13T20:01:41+09:00"
-draft: true
-description: "제목: <strong>뉴트리플랜 vs 로얄 미쵸캔 — 고양이 습식사료 오해 3가지 (2026년 기준)</strong>"
-slug: "nyuteulipeullaen-recommend-top5-2026"
-
-
+date: '2026-07-13T20:01:41+09:00'
+description: '제목: <strong>뉴트리플랜 vs 로얄 미쵸캔 — 고양이 습식사료 오해 3가지 (2026년 기준)</strong>'
+slug: nyuteulipeullaen-recommend-top5-2026
+tags:
+- uncategorized
+title: 뉴트리플랜 추천 TOP5 (2026년)
 ---
 
- 고양이를 키우는 집사라면 한 번쯤 \\"습식사료가 더 좋은데 왜 건식을 같이 줘야 하지?\\" 또는 \\"대용량 캔이 실속 있는데, 고양이가 싫어하면 어쩌지?\\" 같은 고민을 해보셨을 겁니다. 20\"
+고양이를 키우는 집사라면 한 번쯤 \\"습식사료가 더 좋은데 왜 건식을 같이 줘야 하지?\\" 또는 \\"대용량 캔이 실속 있는데, 고양이가 싫어하면 어쩌지?\\" 같은 고민을 해보셨을 겁니다. 20\"
 slug: \"nyuteulipeullaen-recommend-top5-2026\"
 categories: ['추천']
 tags: ['동원에프앤비', '펫스토리', '프리미엄로얄', '뉴트리플랜', '어드밴스']

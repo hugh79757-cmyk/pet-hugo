@@ -1,18 +1,22 @@
 ---
-title: "대형견 추천 TOP5 (2026년)"
-date: "2026-07-14T13:04:29+09:00"
-draft: true
-description: "<strong>대형견 키우다 보면 털도, 장난감도, 뒷정리도 늘 고민됩니다 — 소하임, 럭키페터 지금 주목해야 할 이유</strong> 2026년 7월, 대형견과의 동거 생활이 1년 차에 접어들었습니다. 매일 쏟아지는 털에 소파 하나 바꾸는 것도 겁나고, 힘 좋은 우리 아이 장난감은 일주일을 못 넘기는 게 다"
-slug: "daehyeonggyeon-recommend-top5-2026"
-categories: ['추천']
-tags: ['소하임', '마인드업', '대형견', '럭키페터', '펫쉴드']
-cover: 
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/a6633988.webp"
-  relative: "true"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/a6633988.webp"
-
-
-
+categories:
+- 추천
+cover:
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/a6633988.webp
+  relative: 'true'
+date: '2026-07-14T13:04:29+09:00'
+description: <strong>대형견 키우다 보면 털도, 장난감도, 뒷정리도 늘 고민됩니다 — 소하임, 럭키페터 지금 주목해야 할 이유</strong>
+  2026년 7월, 대형견과의 동거 생활이 1년 차에 접어들었습니다. 매일 쏟아지는 털에 소파 하나 바꾸는 것도 겁나고, 힘 좋은 우리 아이 장난감은
+  일주일을 못 넘기는 게 다
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/a6633988.webp
+slug: daehyeonggyeon-recommend-top5-2026
+tags:
+- 소하임
+- 마인드업
+- 대형견
+- 럭키페터
+- 펫쉴드
+title: 대형견 추천 TOP5 (2026년)
 ---
 
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">

@@ -1,16 +1,21 @@
 ---
-title: "강아지슬링백 추천 TOP5 (2026년)"
-date: 2026-07-22T07:06:03+09:00
-draft: true
-description: "2026년 7월 강아지슬링백 추천 — HERON 통기성 경량 포함 4종 실속 총정리 반려견과 함께 외출할 때, 손이 자유롭지 않아 불편했던 적이 많다. 특히 소형견을 키우는 반려인이라면 강아지슬링백 하나쯤은 고민해봤을 것이다. 2026년 7월 기준, 시장에 나온 다양한 제품 중에서 진짜"
-slug: "강아지슬링백-추천-top5-2026년"
-categories: ['추천']
-tags: ['강아지슬링백', '모드니펫']
+categories:
+- 추천
 cover:
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b21bb2aa//2026/07/22/3a350e65.webp"
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b21bb2aa//2026/07/22/3a350e65.webp
   relative: true
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b21bb2aa//2026/07/22/3a350e65.webp"
+date: 2026-07-22 07:06:03+09:00
+description: 2026년 7월 강아지슬링백 추천 — HERON 통기성 경량 포함 4종 실속 총정리 반려견과 함께 외출할 때, 손이 자유롭지
+  않아 불편했던 적이 많다. 특히 소형견을 키우는 반려인이라면 강아지슬링백 하나쯤은 고민해봤을 것이다. 2026년 7월 기준, 시장에 나온 다양한
+  제품 중에서 진짜
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b21bb2aa//2026/07/22/3a350e65.webp
+slug: 강아지슬링백-추천-top5-2026년
+tags:
+- 강아지슬링백
+- 모드니펫
+title: 강아지슬링백 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-left:4px solid #d97706;border-radius:8px">
 <p style="margin:0 0 6px;font-size:13px;color:#6b7280">💡 다른 추천도 확인해보세요</p>

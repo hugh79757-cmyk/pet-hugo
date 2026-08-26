@@ -1,18 +1,21 @@
 ---
-title: "더캣츠 추천 TOP5 (2026년)"
-date: "2026-07-14T16:01:24+09:00"
-draft: true
-description: "매일 같은 간식을 주다 보면 고양이가 금방 싫증을 내고, 새 간식을 사도 이번엔 먹을까 말까 고민이 되곤 합니다. 2026년 7월 현재, 시중에는 짜먹는 스틱부터 쿠키, 스프 파우치까지 다양한 고양이 간식이 나와 있는데, 막상 고르려면 어떤 기준으로 선택해야 할지 막막해지기 마련이죠."
-slug: "deokaescheu-recommend-top5-2026"
-categories: ['추천']
-tags: ['더캣츠', '펫스윗', '펫더맨', '펫츠몬']
-cover: 
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/b6bbd98a.webp"
-  relative: "true"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/b6bbd98a.webp"
-
-
-
+categories:
+- 추천
+cover:
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/b6bbd98a.webp
+  relative: 'true'
+date: '2026-07-14T16:01:24+09:00'
+description: 매일 같은 간식을 주다 보면 고양이가 금방 싫증을 내고, 새 간식을 사도 이번엔 먹을까 말까 고민이 되곤 합니다. 2026년
+  7월 현재, 시중에는 짜먹는 스틱부터 쿠키, 스프 파우치까지 다양한 고양이 간식이 나와 있는데, 막상 고르려면 어떤 기준으로 선택해야 할지 막막해지기
+  마련이죠.
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/2026/07/14/b6bbd98a.webp
+slug: deokaescheu-recommend-top5-2026
+tags:
+- 더캣츠
+- 펫스윗
+- 펫더맨
+- 펫츠몬
+title: 더캣츠 추천 TOP5 (2026년)
 ---
 
 <div style="margin:0 0 16px;padding:12px 16px;background:#f8fafc;border-radius:8px">

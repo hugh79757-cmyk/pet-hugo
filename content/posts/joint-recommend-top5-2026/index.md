@@ -1,18 +1,23 @@
 ---
-title: "관절 추천 TOP5 (2026년)"
-date: "2026-07-23T13:06:40+09:00"
-draft: true
-description: "제목: 2026년 7월 관절 영양제 추천: 애플트리김약사네 vs 종근당 — 실속 선택 가이드 2026년 7월, 장마철 습한 날씨에도 무릎이나 손가락 관절이 뻣뻣하게 느껴지는 분들이 많습니다. 특히 40대 이후 연골이 점차 닳아가면서 일상적인 움직임에도 불편을 호소하는 경우가 늘고 있습니"
-slug: "joint-recommend-top5-2026"
-categories: ['추천']
-tags: ['이앤에스', '관절', '웰빙헬스팜', '팜스빌', '애플트리김약사네', '종근당']
-cover: 
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/df109359//2026/07/23/f777d6fa.webp"
-  relative: "true"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/df109359//2026/07/23/f777d6fa.webp"
-
-
-
+categories:
+- 추천
+cover:
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/df109359//2026/07/23/f777d6fa.webp
+  relative: 'true'
+date: '2026-07-23T13:06:40+09:00'
+description: '제목: 2026년 7월 관절 영양제 추천: 애플트리김약사네 vs 종근당 — 실속 선택 가이드 2026년 7월, 장마철 습한
+  날씨에도 무릎이나 손가락 관절이 뻣뻣하게 느껴지는 분들이 많습니다. 특히 40대 이후 연골이 점차 닳아가면서 일상적인 움직임에도 불편을 호소하는
+  경우가 늘고 있습니'
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/df109359//2026/07/23/f777d6fa.webp
+slug: joint-recommend-top5-2026
+tags:
+- 이앤에스
+- 관절
+- 웰빙헬스팜
+- 팜스빌
+- 애플트리김약사네
+- 종근당
+title: 관절 추천 TOP5 (2026년)
 ---
 
 {{< lead >}}

@@ -1,16 +1,23 @@
 ---
-title: '강아지 운동장 추천 TOP5 (2026년)'
-date: 2026-08-01T10:03:03+09:00
-draft: true
-description: '2026년 8월 기준으로 강아지 운동장을 찾는 반려인이 부쩍 늘었습니다. 장마가 끝난 뒤에도 폭염이 이어지면서 산책 시간을 줄이는 대신 실내외 울타리 운동장을 찾는 분들이 많아졌기 때문입니다. 아파트 거실, 베란다, 마당 어디에 두어도 강아지가 안전하게 뛰어놀 수 있는 구조가 필요합니다'
-slug: '강아지-운동장-추천-top5-2026년'
-categories: ['추천']
-tags: ['운동장', '강아지', '강아지 운동장 추천', '추천']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/e12f24cf//2026/08/01/5569708c.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/e12f24cf//2026/08/01/5569708c.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/e12f24cf//2026/08/01/5569708c.webp'
+date: 2026-08-01 10:03:03+09:00
+description: 2026년 8월 기준으로 강아지 운동장을 찾는 반려인이 부쩍 늘었습니다. 장마가 끝난 뒤에도 폭염이 이어지면서 산책 시간을
+  줄이는 대신 실내외 울타리 운동장을 찾는 분들이 많아졌기 때문입니다. 아파트 거실, 베란다, 마당 어디에 두어도 강아지가 안전하게 뛰어놀 수 있는
+  구조가 필요합니다
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/e12f24cf//2026/08/01/5569708c.webp
+slug: 강아지-운동장-추천-top5-2026년
+tags:
+- 운동장
+- 강아지
+- 강아지 운동장 추천
+- 추천
+title: 강아지 운동장 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

@@ -1,16 +1,19 @@
 ---
-title: '파스텔펫민소매 나시 3종 비교 반려동물 시원한 여름옷 추천'
-date: 2026-08-01T20:03:40+09:00
-draft: true
-description: 'The user wants a blog post in Korean about pet cool clothes (반려동물시원옷). They provided 3 products:'
-slug: '파스텔펫민소매-나시-3종-비교-반려동물-시원한-여름옷-추천'
-categories: ['추천']
-tags: ['반려동물시원옷']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/58383c6f//2026/08/01/8157f120.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/58383c6f//2026/08/01/8157f120.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/58383c6f//2026/08/01/8157f120.webp'
+date: 2026-08-01 20:03:40+09:00
+description: 'The user wants a blog post in Korean about pet cool clothes (반려동물시원옷).
+  They provided 3 products:'
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/58383c6f//2026/08/01/8157f120.webp
+slug: 파스텔펫민소매-나시-3종-비교-반려동물-시원한-여름옷-추천
+tags:
+- 반려동물시원옷
+title: 파스텔펫민소매 나시 3종 비교 반려동물 시원한 여름옷 추천
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

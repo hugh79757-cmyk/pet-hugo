@@ -1,18 +1,20 @@
 ---
-title: "고양이밥그릇 추천 TOP5 (2026년)"
-date: "2026-07-25T16:01:34+09:00"
-draft: true
-description: "고양이 밥그릇 하나 고르는 일이 이렇게 어려울 줄이야. 경사형, 높이조절, 반자동 급수까지 종류도 다양하고, 아이가 목을 숙이지 않고 편하게 먹을 수 있을까 고민이 많으실 텐데요. 2026년 7월 현재, 쿠팡에서 로켓배송으로 바로 받을 수 있는 고양이밥그릇 5가지를 스펙과 실사용 관점에"
-slug: "catbabgeuleus-recommend-top5-2026"
-categories: ['추천']
-tags: ['페키움', '고양이밥그릇', '난펫']
-cover: 
-  image: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/45eacbe9//2026/07/25/af691a13.webp"
-  relative: "true"
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/45eacbe9//2026/07/25/af691a13.webp"
-
-
-
+categories:
+- 추천
+cover:
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/45eacbe9//2026/07/25/af691a13.webp
+  relative: 'true'
+date: '2026-07-25T16:01:34+09:00'
+description: 고양이 밥그릇 하나 고르는 일이 이렇게 어려울 줄이야. 경사형, 높이조절, 반자동 급수까지 종류도 다양하고, 아이가 목을 숙이지
+  않고 편하게 먹을 수 있을까 고민이 많으실 텐데요. 2026년 7월 현재, 쿠팡에서 로켓배송으로 바로 받을 수 있는 고양이밥그릇 5가지를 스펙과
+  실사용 관점에
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/45eacbe9//2026/07/25/af691a13.webp
+slug: catbabgeuleus-recommend-top5-2026
+tags:
+- 페키움
+- 고양이밥그릇
+- 난펫
+title: 고양이밥그릇 추천 TOP5 (2026년)
 ---
 
 {{< lead >}}

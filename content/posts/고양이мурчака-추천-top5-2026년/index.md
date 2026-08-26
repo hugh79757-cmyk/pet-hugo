@@ -1,16 +1,20 @@
 ---
-title: '고양이мурчака 추천 TOP5 (2026년)'
-date: 2026-08-01T13:01:37+09:00
-draft: true
-description: 'We need answer in Korean, follow all rules. Need write article about "고양이мурчака" but keyword weird "мурчака" Russian? Actually "мурчака" means purring cat? Nee'
-slug: '고양이мурчака-추천-top5-2026년'
-categories: ['추천']
-tags: ['고양이мурчака']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/725d8a7c//2026/08/01/e92fb492.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/725d8a7c//2026/08/01/e92fb492.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/725d8a7c//2026/08/01/e92fb492.webp'
+date: 2026-08-01 13:01:37+09:00
+description: We need answer in Korean, follow all rules. Need write article about
+  "고양이мурчака" but keyword weird "мурчака" Russian? Actually "мурчака" means purring
+  cat? Nee
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/725d8a7c//2026/08/01/e92fb492.webp
+slug: 고양이мурчака-추천-top5-2026년
+tags:
+- 고양이мурчака
+title: 고양이мурчака 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

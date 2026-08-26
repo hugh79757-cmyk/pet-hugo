@@ -1,16 +1,20 @@
 ---
-title: '고양이공장난감 추천 TOP5 (2026년)'
-date: 2026-07-31T16:42:07+09:00
-draft: true
-description: '2026년 7월 실내묘를 위한 고양이 공 장난감 비교 — 모드리움 쥐돌이 vs 이너플리 탱탱볼 장마철이 길어지면서 집사들의 가장 큰 고민은 고양이 활동량 부족입니다. 2026년 7월 현재, 실내묘가 하루 종일 낮잠만 자다 보면 스트레스가 쌓이고 체중이 늘기 쉽습니다.  사냥 본능을 자극'
-slug: '고양이공장난감-추천-top5-2026년'
-categories: ['추천']
-tags: ['고양이공장난감']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b63559f5//2026/07/31/be422819.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b63559f5//2026/07/31/be422819.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b63559f5//2026/07/31/be422819.webp'
+date: 2026-07-31 16:42:07+09:00
+description: 2026년 7월 실내묘를 위한 고양이 공 장난감 비교 — 모드리움 쥐돌이 vs 이너플리 탱탱볼 장마철이 길어지면서 집사들의
+  가장 큰 고민은 고양이 활동량 부족입니다. 2026년 7월 현재, 실내묘가 하루 종일 낮잠만 자다 보면 스트레스가 쌓이고 체중이 늘기 쉽습니다.  사냥
+  본능을 자극
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/b63559f5//2026/07/31/be422819.webp
+slug: 고양이공장난감-추천-top5-2026년
+tags:
+- 고양이공장난감
+title: 고양이공장난감 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>

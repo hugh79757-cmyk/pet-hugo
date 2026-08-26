@@ -1,16 +1,20 @@
 ---
-title: '강아지스마트 장난감 추천 TOP5 (2026년)'
-date: 2026-07-31T20:10:28+09:00
-draft: true
-description: '2026년 7월 강아지스마트 장난감 추천 — 터그놀이 흡착식부터 디오벨러 삑삑이까지 2026년 7월 기준으로 반려견 장난감 검색 상위권은 삑삑이 계열이 차지하고 있습니다. 그런데 막상 고르려면 소재와 크기, 놀이 방식이 제각각이라 어떤 제품이 우리 집 강아지와 맞는지 헷갈리기 마련입니다.'
-slug: '강아지스마트 장난감-추천-top5-2026년'
-categories: ['추천']
-tags: ['강아지스마트 장난감']
+categories:
+- 추천
 cover:
-  image: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/33f1eaca//2026/07/31/b06b4acc.webp'
+  image: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/33f1eaca//2026/07/31/b06b4acc.webp
   relative: true
-featureimage: 'https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/33f1eaca//2026/07/31/b06b4acc.webp'
+date: 2026-07-31 20:10:28+09:00
+description: 2026년 7월 강아지스마트 장난감 추천 — 터그놀이 흡착식부터 디오벨러 삑삑이까지 2026년 7월 기준으로 반려견 장난감
+  검색 상위권은 삑삑이 계열이 차지하고 있습니다. 그런데 막상 고르려면 소재와 크기, 놀이 방식이 제각각이라 어떤 제품이 우리 집 강아지와 맞는지
+  헷갈리기 마련입니다.
+featureimage: https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/curation-images/hash/33f1eaca//2026/07/31/b06b4acc.webp
+slug: 강아지스마트 장난감-추천-top5-2026년
+tags:
+- 강아지스마트 장난감
+title: 강아지스마트 장난감 추천 TOP5 (2026년)
 ---
+
 {{< lead >}}
 <div class="funnel-header">
 <p class="funnel-header__label">💡 다른 추천도 확인해보세요</p>
