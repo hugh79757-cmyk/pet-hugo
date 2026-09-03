@@ -1,5 +1,34 @@
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="gWEAZRdroAJvrxbYNgysEL8U7Oq7uIPjKfI6sZutBLs" />
+
+<!-- twitter:card (소셜 공유 큰 이미지 미리보기) -->
+<meta name="twitter:card" content="summary_large_image">
+
 {{ with site.Params.advertisement.adsense }}
 <script async
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}"
         crossorigin="anonymous"></script>
 {{ end }}
+
+<!-- GA4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=532414941"></script>
+<style>
+/* ── 모바일 UI/UX 보정 ── */
+@media (max-width: 767px) {
+  .ad-inarticle, .ad-leaderboard, .ad-top {
+    overflow: hidden !important;
+    max-width: 100% !important;
+  }
+  .ad-inarticle ins, .ad-leaderboard ins, .ad-top ins {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+  ins.adsbygoogle[data-ad-status="unfilled"] {
+    min-height: 0 !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: none !important;
+  }
+}
+</style>
